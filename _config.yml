@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Alvarez"
+title                    : "JOSE ALVAREZ"
 title_separator          : "-"
-name                     : &name "JOSE ALVAREZ"
+name                     : &name "Jose Alvarez"
 description              : &description "PhD Student"
 url                      : https://cc-jalvarez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Jose Alvarez"
-  avatar           : "AlvarezJose.png"
+  avatar           : "profile.png"
   bio              : "PhD Student at Scuola Normale Superiore"
   location         : "Pisa, Italy"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    :
+  email            : "jose.alvarez@sns.it"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "cc-jalvarez"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
