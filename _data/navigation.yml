@@ -4,6 +4,18 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /research/
+
+  # - title: "El Ateneo"
+    # url:
+
+  # - title: "Posts"
+    # url:
+    
+  - title: "CV"
+    url: /cv/
+    
   # - title: "Talks"
   #   url: /talks/    
 
@@ -12,12 +24,5 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Posts"
-    # url:
-    
-  - title: "CV"
-    url: /cv/
-    
   # - title: "Guide"
   #   url: /markdown/
