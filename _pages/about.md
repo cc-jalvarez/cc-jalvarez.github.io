@@ -10,8 +10,6 @@ redirect_from:
 
 I am PhD Candidate in Data Science at the Scuola Normale Superiore in Pisa, Italy. I am also a Marie Skłodowska-Curie Early Stage Researcher (ESR) with the [NoBIAS](https://nobias-project.eu/) EU project, and a member of the University of Pisa's Knowledge Discovery and Data Mining Laboratory ([KDD Lab](https://kdd.isti.cnr.it/)). My research focuses on developing causal methods for tackling bias in machine learning systems. My supervisor is Professor [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
 
-Main research areas: causal learning, fuzzy counterfactuals for fair AI, proxy discrimination. Secondary research areas: graph models, data science for urban studies.
-
 Prior to Pisa, I worked for Deloitte Belgium in Brussels as a data science consultant for over three years. My projects ranged across the banking and energy & utilities sectors, where I specialized in building financial and operational risk models. I also worked as a Summer Economist for the UK Government (Cabinet Office) in 2016.
 
 I hold MSc in Econometrics and Empirical Economics from the Toulouse School of Economics, and a BA in Economics and History from the University of Florida, where I attended as a Davis UWC Scholar. I am originally from Caracas, Venezuela.
