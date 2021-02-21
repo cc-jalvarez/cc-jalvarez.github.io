@@ -7,14 +7,14 @@ main:
   - title: "Research"
     url: /research/
 
-  # - title: "El Ateneo"
-    # url:
-
   # - title: "Posts"
     # url:
     
   - title: "CV"
     url: /cv/
+
+  - title: "El Ateneo"
+    url: /ateneo/
     
   # - title: "Talks"
   #   url: /talks/    
@@ -24,6 +24,6 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-  
+
   # - title: "Guide"
   #   url: /markdown/
