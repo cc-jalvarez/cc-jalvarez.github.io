@@ -22,20 +22,20 @@ Work Experience
 
 Awards and Scolarships
 ======
-* Marie Sklodowska-Curie Fellow (Nov 2020)
-* Phi Beta Kappa (May 2015)
-* Davis United World College Scholar (May 2011)
-* United World College Scholarship (Sep 2009)
+* Marie Sklodowska-Curie Fellow, Nov 2020
+* Phi Beta Kappa, May 2015
+* Davis United World College Scholar, May 2011
+* United World College Scholarship, Sep 2009
 
 Certificates
 ======
-* Advanced Credit Risk Management by the Technische Universiteit Delft (Sep 2019)
-* Peace, Trade, and Development by the Middlebury Institute of International Studies at Monterey (Jul 2014)
+* Advanced Credit Risk Management by the Technische Universiteit Delft, Sep 2019
+* Peace, Trade, and Development by the Middlebury Institute of International Studies at Monterey, Jul 2014
 
 Skills
 ======
-* Programming: Python (advanced), R (advanced), Scala (novice)
-  * Other: Git, Latex, Docker, Stata, bash
+* Programming: Python (advanced), R (advanced), Scala (notions), PySpark (notions)
+  * Other: Git, Latex, Docker, Stata, bash, Spark
 * Languages: Spanish (native), English (fluent), French (intermediate), Italian (notions) 
 
 Misc.
