@@ -32,6 +32,15 @@ Certificates
 * Advanced Credit Risk Management by the Technische Universiteit Delft (Sep 2019)
 * Peace, Trade, and Development by the Middlebury Institute of International Studies at Monterey (Jul 2014)
 
+Skills
+======
+* Programming: Python (advanced), R (advanced), Scala (novice)
+  * Other: Git, Latex, Docker, Stata, bash
+* Languages: Spanish (native), English (fluent), French (intermediate), Italian (notions) 
+
+Misc.
+======
+I am originally from Caracas, Venezuela, where I lived until I was 18. My plan after high school was to study Electronic Engineering back home, but I was not 100% sure and then I got a scholarship to study the International Baccalaureate (IB) at a secluded boarding school in the middle of Vancouver Island (Lester B. Pearson UWC) along with 200 other students from around the world. UWC changed my life. Over the past decade I have had the opportunity to study and work across multiple countries, including Canada, the USA, Colombia, France, England, Belgium, the Netherlands, Germany, and currently Italy. I enjoy getting to know new cultures. It makes it all a little more interesting.
 
 <!-- Work experience
 ======
