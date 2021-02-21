@@ -11,9 +11,27 @@ redirect_from:
 
 Education
 ======
-PhD in Data Science, Scuola Normale Superiore, 2020 - 2023
-MSc in Economics, Toulouse School of Economics, 2015 - 2017
-BA  in Economics and History, University of Florida, 2011 - 2015
+* PhD in Data Science, Scuola Normale Superiore, 2020 - 2023
+* MSc in Econometrics and Empirical Economics, Toulouse School of Economics, 2015 - 2017
+* BA  in Economics and History, University of Florida, 2011 - 2015
+
+Work Experience
+======
+* Senior Consultant (Data Scientist), Deloitte Belgium, 2017 - 2020
+* Summer Economist, UK Cabinte Office, Summer 2016
+
+Awards and Scolarships
+======
+* Marie Sklodowska-Curie Fellow (Nov 2020)
+* Phi Beta Kappa (May 2015)
+* Davis United World College Scholar (May 2011)
+* United World College Scholarship (Sep 2009)
+
+Certificates
+======
+* Advanced Credit Risk Management by the Technische Universiteit Delft (Sep 2019)
+* Peace, Trade, and Development by the Middlebury Institute of International Studies at Monterey (Jul 2014)
+
 
 <!-- Work experience
 ======
