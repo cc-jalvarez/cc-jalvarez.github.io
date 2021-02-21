@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Data Science, Scuola Normale Superiore, 2020 - 2023 
-* MSc in Economics, Toulouse School of Economics, 2015 - 2017
-* BA  in Economics and History, University of Florida, 2011 - 2015
+PhD in Data Science, Scuola Normale Superiore, 2020 - 2023
+MSc in Economics, Toulouse School of Economics, 2015 - 2017
+BA  in Economics and History, University of Florida, 2011 - 2015
 
 <!-- Work experience
 ======
