@@ -13,11 +13,15 @@ Education
 ======
 **Scuola Normale Superiore**, Pisa, Italy
   * PhD in Data Science, 2020 - 2023
+  * Marie Sklodowska-Curie ESR with [NoBIAS](https://nobias-project.eu/)
 
-* PhD in Data Science, Scuola Normale Superiore, 2020 - 2023
-* MSc in Econometrics and Empirical Economics, Toulouse School of Economics, 2015 - 2017
+**Toulouse School of Economics**, Toulouse, France
+  * Master of Science in Economics, Econometrics and Empirical Economics track, 2015 - 2017
+  * *Magna Cum Laude*
 
-* BA  in Economics and History, University of Florida, 2011 - 2015
+**University of Florida**, Gainesville, USA
+  * Bachelor of Arts in Economics and History, double major, 2011 - 2015
+  * *Summa Cum Laude*, Phi Beta Kappa, UWC Scholar
 
 Work Experience
 ======
