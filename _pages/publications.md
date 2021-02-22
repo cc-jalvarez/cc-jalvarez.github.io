@@ -8,8 +8,6 @@ author_profile: true
 Working Papers
 ===============
 
-Working on it :computer:
-
 Other
 ===============
 
