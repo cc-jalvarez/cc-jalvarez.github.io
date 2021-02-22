@@ -12,3 +12,5 @@ redirect_from:
 Main research areas: causal learning, fuzzy counterfactuals for fair AI, proxy discrimination. 
 
 Secondary research areas: social networks, graph models, data science for urban studies.
+
+Working on it :computer:
