@@ -25,8 +25,11 @@ Education
 
 Work Experience
 ======
-* Senior Consultant (Data Scientist), Deloitte Belgium, 2017 - 2020
-* Summer Economist, UK Cabinte Office, Summer 2016
+**Deloitte**, Brussels, Belgium
+  * Senior Consultant (Data Scientist), 2017 - 2020
+
+**UK Government Cabinet Office**, London, England
+  * Summer Economist, Summer 2016
 
 Awards and Scolarships
 ======
