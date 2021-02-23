@@ -21,7 +21,11 @@ Education
 
 **University of Florida**, Gainesville, USA
   * Bachelor of Arts in Economics and History, double major, 2011 - 2015
-  * *Summa Cum Laude*, Phi Beta Kappa, UWC Scholar
+  * *Summa Cum Laude*, Phi Beta Kappa, Davis UWC Scholar
+
+**Pearson College UWC**, Vancouver Island, Canada
+  * International Baccalaureate, 2009 - 2011
+  * UWC scholarship
 
 Work Experience
 ======
@@ -31,7 +35,7 @@ Work Experience
 **UK Government Cabinet Office**, London, England
   * Summer Economist, Summer 2016
 
-Awards and Scolarships
+Awards and Scholarships
 ======
 * Marie Sklodowska-Curie Fellow, Nov 2020
 * Phi Beta Kappa, May 2015
