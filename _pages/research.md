@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Main research areas: causal learning, fuzzy counterfactuals for fair AI, proxy discrimination. 
+Main research areas: causal learning/discovery for knowledge representation, algorithmic fairness, bias detection. 
 
-Secondary research areas: social networks, graph models, data science for urban studies.
+Secondary research areas: computational social science, mechanism design.
