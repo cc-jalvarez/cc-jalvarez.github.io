@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Main research areas: causal learning/discovery for knowledge representation, algorithmic fairness, bias detection. 
+Main research areas: algorithmic fairness, mechanism design for social good, causal reasoning as knowledge representation. 
 
-Secondary research areas: computational social science, mechanism design.
+Secondary research areas: computational social science, operational / financial risk.
