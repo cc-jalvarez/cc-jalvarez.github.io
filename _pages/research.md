@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I am interested in algorithmic fairness, mechanism design for social good, causal reasoning as knowledge representation.
+I am mainly interested in algorithmic fairness, mechanism design for social good, and causal reasoning as knowledge representation.
