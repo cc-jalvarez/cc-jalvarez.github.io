@@ -51,7 +51,7 @@ Skills
 ======
 * Programming: Python (advanced), R (advanced), Scala (notions), PySpark (notions)
   * Other: Git, Latex, Docker, Stata, bash, Spark
-* Languages: Spanish (native), English (fluent), French (intermediate), Italian (notions) 
+* Languages: Spanish (native), English (fluent), French (intermediate), Italian (intermediate) 
 
 Misc.
 ======
