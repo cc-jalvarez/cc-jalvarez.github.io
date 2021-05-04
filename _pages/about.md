@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am PhD Candidate in Data Science at the Scuola Normale Superiore in Pisa, Italy, studying fair machine learning. I am also a Marie Skłodowska-Curie Early-Stage Researcher with the [NoBIAS: Artificial Intelligence without Bias](https://nobias-project.eu/) project, and a member of the ([Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/)) of the University of Pisa. My supervisor is Professor [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
+Greetings! I am PhD Candidate in Data Science at the Scuola Normale Superiore in Pisa, Italy, studying fair machine learning. I am also a Marie Skłodowska-Curie Early-Stage Researcher with the [NoBIAS: Artificial Intelligence without Bias](https://nobias-project.eu/) project, and a member of the [Knowledge Discovery and Data Mining Laboratory](https://kdd.isti.cnr.it/) of the University of Pisa. My supervisor is Professor [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
 
 My research focuses on how to use causality to detect bias in data used for or derived from AI-driven decision-making processes. I am currently interested in fair ranking algorithms employed for candidate screenings. Overall, my research is interdisciplinary and draws mainly from computer science, economics, and data science. Topic-wise, I am interested in algorithm design, causal fairness, mechanism design, and data as an engineering problem.
 
