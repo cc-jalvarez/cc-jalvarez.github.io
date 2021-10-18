@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I am mainly interested in algorithmic fairness, mechanism design for social good, and causal reasoning as knowledge representation.
+Main fields: causal fairness, meaningful counterfactuals, fair ranking.
+
+Secondary fields: historical bias, situational testing.
