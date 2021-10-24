@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/AlvarezJoseCV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/AlvarezJoseCV.pdf" width="75%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 You can download my CV [here](/files/AlvarezJoseCV.pdf).
 
