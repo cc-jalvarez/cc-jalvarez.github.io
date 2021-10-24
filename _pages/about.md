@@ -12,6 +12,8 @@ redirect_from:
 
 I recently defended my first-year of PhD.
 
+I started a three-month research visit to Generali IT, where I'm looking at fair ranking algorithms for hiring.
+
 **About:**
 
 I'm a [Data Science PhD]( https://www.phd-ai.it/) Student at Scuola Normale Superiore, and a Marie Skłodowska-Curie Early-Stage Researcher (ESR) with [NoBIAS](https://nobias-project.eu/) at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/). I study algorithmic fairness, focusing on causality-based approaches for bias detection in data and machine learning models. My supervisor is Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
