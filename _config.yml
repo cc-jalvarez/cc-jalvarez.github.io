@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Alvarez"
+title                    : "Jose M. Alvarez"
 title_separator          : "-"
-name                     : &name "Jose Alvarez"
+name                     : &name "Jose M. Alvarez"
 description              : &description "PhD Student"
 url                      : https://cc-jalvarez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose Alvarez"
+  name             : "Jose M. Alvarez"
   avatar           : "AlvarezJose.png"
-  bio              : "PhD Candidate in Data Science at Scuola Normale Superiore"
+  bio              : "PhD Student in Data Science"
   location         : "Pisa, Italy"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "jose.alvarez@sns.it"
+  email            : #"jose.alvarez@sns.it"
   researchgate     :
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "cc_jalvarez"
