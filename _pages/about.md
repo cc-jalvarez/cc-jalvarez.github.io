@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings, my name is Jose Manuel Alvarez. I'm Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher with NoBIAS at the University of Pisa. Welcome to my website.
+Greetings, my name is Jose Manuel Alvarez. I'm Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher with NoBIAS at the University of Pisa.
 
-Feel free to reach out at jose.alvarez[at]di.unipi.it or at jose.alvarez[at]sns.it
+Welcome to my website. Feel free to reach out at jose.alvarez[at]di.unipi.it
 
 **Updates:**
 
