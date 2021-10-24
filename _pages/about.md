@@ -10,7 +10,7 @@ redirect_from:
 
 **Updates:**
 
-I recently defended my first-year of PhD.
+I recently defended successfully my first-year of PhD to my Individual Panel. The panel included: S. Ruggieri (Univerity of Pisa), B. Berendt (KU Leuven), G. Commande (Sant'Anna School of Advanced Studies), C. Castillo (Pompeu Fabra), and S. Matwin (Dalhousie University).
 
 I started a three-month research visit to Generali IT, where I'm looking at fair ranking algorithms for hiring.
 
