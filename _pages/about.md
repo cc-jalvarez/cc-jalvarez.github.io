@@ -8,18 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Greetings! My name is Jose M. Alvarez. I'm Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher with NoBIAS at the University of Pisa. Welcome to my website. 
+
 **Updates:**
 
-I recently defended successfully my first-year of PhD to my Individual Panel. The panel included: S. Ruggieri (Univerity of Pisa), B. Berendt (KU Leuven), G. Commande (Sant'Anna School of Advanced Studies), C. Castillo (Pompeu Fabra), and S. Matwin (Dalhousie University).
+Oct.: I recently defended successfully my first-year of PhD to my Individual Panel. The panel included: Salvatore Ruggieri (Univerity of Pisa), Bettina Berendt (KU Leuven), Giovanni Commande (Sant'Anna School of Advanced Studies), Carlos Castillo (Pompeu Fabra), and Stan Matwin (Dalhousie University). The main topic was on meaningful counterfactuals.
 
-I started a three-month research visit to Generali IT, where I'm looking at fair ranking algorithms for hiring.
-
-**About:**
-
-I'm a [Data Science PhD]( https://www.phd-ai.it/) Student at Scuola Normale Superiore, and a Marie Skłodowska-Curie Early-Stage Researcher (ESR) with [NoBIAS](https://nobias-project.eu/) at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/). I study algorithmic fairness, focusing on causality-based approaches for bias detection in data and machine learning models. My supervisor is Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
-
-Before starting my PhD, I was a senior risk modeler / data scientist at Deloitte Belgium for over three years, where I specialized in building financial and operational risk models. Prior to Deloitte, I was a Summer Economist for the UK Government Cabinet Office.
-
-I hold MSc in Econometrics and Empirical Economics from the Toulouse School of Economics, France, and a BA in Economics and History from the University of Florida, USA, where I attended as a Davis UWC Scholar. I also studied the International Baccalaureate at Pearson College UWC, Canada. I am originally from Caracas, Venezuela.
-
-Feel free to reach out for potential collaborations, and thanks for stopping by.
+Sep.: I started my three-month research visit to Generali Italia, where I'm looking at fair ranking algorithms for candidate hiring.

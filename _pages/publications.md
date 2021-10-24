@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
+Published Papers
+===============
 Working Papers
 ===============
 
