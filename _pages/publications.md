@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 Published Papers
-===============
+===
+
 Working Papers
-===============
+===
 
 Other
-===============
+===
 
 Alvarez, Jose, "Gauche Caviar", *The TSEconomist*, Num.16, 2017. [Link to magazine](https://thetseconomist.files.wordpress.com/2018/01/issue16-compressed.pdf).
 
