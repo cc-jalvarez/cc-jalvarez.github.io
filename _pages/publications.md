@@ -1,18 +1,21 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 
-Published Papers
-===
+I work within the fields of machine learning, causality, and fairness. I'm mainly interested in causality-based fairness, counterfactual reasoning, and ranking algorithms.
 
-Working Papers
-===
+I'm also interested in historical bias, and situational testing methods.
 
-Other
-===
+**Published papers**
+
+**Working papers**
+
+**Work in progress**
+
+**Other**
 
 Alvarez, Jose, "Gauche Caviar", *The TSEconomist*, Num.16, 2017. [Link to magazine](https://thetseconomist.files.wordpress.com/2018/01/issue16-compressed.pdf).
 
