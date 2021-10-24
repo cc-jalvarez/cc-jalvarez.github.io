@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose M. Alvarez"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jose M. Alvarez"
 description              : &description "PhD Student"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jose M. Alvarez"
   avatar           : "AlvarezJose.png"
-  bio              : "PhD Student in Data Science"
-  location         : "Pisa, Italy"
-  employer         :
+  bio              : "Data Science PhD Student"
+  location         : "Florence, Italy"
+  employer         : "University of Pisa"
   pubmed           :
   googlescholar    :
   email            : #"jose.alvarez@sns.it"
