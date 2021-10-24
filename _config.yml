@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jose Alvarez"
 title_separator          : "-"
 name                     : &name "Jose Alvarez"
 description              : &description "PhD Student"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose M. Alvarez"
+  name             : "Jose Alvarez"
   avatar           : "AlvarezJose.png"
   bio              : "Machine Learning Researcher"
   location         : "Florence, Italy"
