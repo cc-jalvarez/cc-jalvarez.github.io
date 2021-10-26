@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. My name is Jose Manuel Alvarez. I'm a Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher with NoBIAS at the University of Pisa. My research focuses on algorithmic fairness, where I study causality-based notions of fairness for bias mitigation in data and machine learning models.
+Welcome to my website. My name is Jose Manuel Alvarez. I'm a Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher at the University of Pisa. My research focuses on algorithmic fairness, where I study causality-based notions of fairness for bias mitigation in data and machine learning models.
 
 Feel free to reach out at jose.alvarez[at]di.unipi.it
 
