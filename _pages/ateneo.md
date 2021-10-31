@@ -10,7 +10,7 @@ redirect_from:
 
 **Books**
 
-I'm currently reading PIF and Marco Lillo's *Io Posso*.
+I'm currently reading Diarmaid MacCulloch's *Christianity: The First Three Thousand Years*.
 
 **Music**
 
