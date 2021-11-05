@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I'm a Data Science Ph.D. Student and a Marie Skłodowska-Curie Early-Stage Researcher with the NoBIAS ITN at the University of Pisa. My research focuses on algorithmic fairness, where I study causality-based notions of fairness for bias mitigation. My advisor is Salvatore Ruggieri.
+Welcome to my website. I'm a PhD Student in Data Science and a Marie Skłodowska-Curie Early-Stage Researcher with the NoBIAS ITN at the University of Pisa. My research focuses on algorithmic fairness, where I study causality-based fairness for bias mitigation. My advisor is Salvatore Ruggieri.
 
 Feel free to reach out at jose.alvarez[at]di.unipi.it
 
-**Updates:**
+**Updates**
 
 *Oct. 2021:* I defended successfully my first-year of PhD to my Individual Panel. The panel included: Salvatore Ruggieri (Univerity of Pisa), Bettina Berendt (KU Leuven), Giovanni Commande (Sant'Anna School of Advanced Studies), Carlos Castillo (Pompeu Fabra), and Stan Matwin (Dalhousie University). The main topic was on meaningful counterfactuals.
 
