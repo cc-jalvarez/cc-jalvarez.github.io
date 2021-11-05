@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+When I'm not learning from machines, I like to play football, read books, and listen to music. Here are some highlights.
+
 **Books**
 
 I'm currently reading Diarmaid MacCulloch's *Christianity: The First Three Thousand Years*.
