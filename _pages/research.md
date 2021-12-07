@@ -5,11 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I work within the fields of machine learning, causality, and fairness. I'm mainly interested in causality-based fairness, counterfactual reasoning, and ranking algorithms.
+I work within the fields of machine learning, causality, and fairness. I'm mainly interested in causality-based fairness, counterfactual reasoning, and situated knowledge. Implicitly, I'm also intrrested in Bayesian learning, graphical probability modeling, and the philosophy of causality. 
 
-I'm also interested in historical bias, and situational testing methods.
-
-**Published papers**
+**Publications**
 
 **Working papers**
 
