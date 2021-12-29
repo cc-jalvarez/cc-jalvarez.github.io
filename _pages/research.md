@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I work within the fields of machine learning, causality, and fair/ethical AI. I'm mainly interested in causality-based notions of fairness, counterfactual reasoning, and situated knowledge. As a consequence, I'm also intrrested in Bayesian inference, graphical probability modeling, and the philosophy of causality. 
+I work within the fields of machine learning, causality, and fair/ethical AI. I'm mainly interested in causality-based notions of fairness, counterfactual reasoning, and situated knowledge. I'm also interested in Bayesian inference, graphical probability modeling, and the philosophy of causality. 
 
 **Publications**
 
