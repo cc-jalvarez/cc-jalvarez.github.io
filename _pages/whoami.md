@@ -11,3 +11,5 @@ I'm a PhD Student in [Data Science](https://www.phd-ai.it/) at Scuola Normale Su
 Before starting my PhD, I was a senior data scientist/risk modeler at Deloitte Belgium for over three years. I specialized in building financial and operational risk models for banks and energy companies, respectively. I was also the Belgium representative to the [aiStudio](https://www2.deloitte.com/de/de/pages/risk/solutions/aistudio.html) in Frankfurt, Germany, during a six-month secondment where I developed *Clairvoyance*, an end-to-end time series forecasting tool. Prior to Deloitte, I was a Summer Economist for the UK Government Cabinet Office.
 
 I hold MSc in Econometrics and Empirical Economics from the Toulouse School of Economics, France, and a BA in Economics and History from the University of Florida, USA, where I attended under a fulll-scholarship as a Davis United World College Scholar. I am originally from Caracas, Venezuela. I currently live in Florence, Italy.
+
+When I'm not learning from machines, I like to play football, read books, and listen to music.
