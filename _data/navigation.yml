@@ -3,18 +3,18 @@ main:
 
   - title: "About"
     url: /whoami/
+    
+  - title: "Publications"
+    url: /research/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Research"
-    url: /research/
-
+  
   # - title: "Posts"
     # url:
 
-  - title: "El Ateneo"
-    url: /ateneo/
+#   - title: "El Ateneo"
+#     url: /ateneo/
     
   # - title: "Talks"
   #   url: /talks/    
