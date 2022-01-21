@@ -11,15 +11,15 @@ I work within the fields of machine learning, causality, and fair/ethical AI. I'
 
 Matilde Lazzari, **Jose M. Alvarez**, Salvatore Ruggieri. "Predicting and explaining employee turnover intention." *In submission*.
 
-Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, Steffen Staab. "Fairness implications of encoding protected categorical attributes." *Manuscript in preparation*. 
+Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, Steffen Staab. "Fairness implications of encoding protected categorical attributes." *In submission*. 
 
 ### Ongoing Work
 
-**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual reasoning for meaningful situation testing."
+"Counterfactual reasoning for meaningful situation testing" with Salvatore Ruggieri.
 
-**Jose M. Alvarez**. "Molecular nodes: On meaningful causal representations of protected attributes."
+"Molecular nodes: On meaningful causal representations of protected attributes."
 
-**Jose M. Alvarez**, Antonio Bencini, Salvatore Ruggieri. "Constrained hiring: Market thickness and its fairness implications."
+"Constrained hiring: Market thickness and its fairness implications" with Antonio Bencini and Salvatore Ruggieri.
 
 
 
