@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Science PhD Student and a Marie Skłodowska-Curie Early-Stage Researcher (ESR) with NoBIAS ITN at the University of Pisa. My research focuses on causality for fairness in machine learning. My advisor is Salvatore Ruggieri.
+I'm a Data Science PhD Student at the University of Pisa and a Marie Skłodowska-Curie Early-Stage Researcher (ESR) with NoBIAS ITN. My research focuses on causality for fairness in machine learning. My advisor is Salvatore Ruggieri.
 
 Feel free to reach out at jose.alvarez[at]di.unipi.it
 
