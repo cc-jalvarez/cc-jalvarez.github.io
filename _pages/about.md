@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Science PhD Student at the University of Pisa and a Marie Skłodowska-Curie Early-Stage Researcher (ESR) with NoBIAS ITN. My research focuses on causality for fairness in machine learning. My advisor is Salvatore Ruggieri.
+I'm a PhD Student in data science at Scuola Normale Superiore. As an Early-Stage Researcher (ESR) with NoBIAS ITN, I'm the recipient of a Marie Skłodowska-Curie Fellowship from the European Commission as part of the Horizon 2020 programme. My research focuses on causality-based methods for fairness and machine learning. My advisor is Salvatore Ruggieri. 
+
 
 Feel free to reach out at jose.alvarez[at]di.unipi.it
 
+
 **Updates**
 
-*Oct. 2021:* I defended successfully my first-year of PhD to my Individual Panel. The panel included: Salvatore Ruggieri (Univerity of Pisa), Bettina Berendt (KU Leuven), Giovanni Commande (Sant'Anna School of Advanced Studies), Carlos Castillo (Pompeu Fabra), and Stan Matwin (Dalhousie University). The main topic was on meaningful counterfactuals.
+*Mar. 2022:* I’ll be presenting my work on the molecular node for fair causal representation at ACM Conference on Fairness, Accountability, and Transparency (FAccT’22). See you June 21-24 in Seoul, Korea.
 
-*Sep. 2021:* I started my three-month research visit to Generali Italia, where I'm looking at fair ranking algorithms for candidate hiring.
+*Feb. 2022:* I’ll be presenting my work on counterfactual reasoning for situation testing at the European Workshop on Algorithmic Fairness (EWAF’22). See you June 8-9 in Zurich, Switzerland.
