@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Data Science at Scuola Normale Superiore. As an Early-Stage Researcher (ESR) with NoBIAS ITN, I'm also the recipient of a Marie Skłodowska-Curie Fellowship from the European Commission. My research focuses on causality-based methods for fairness and machine learning. My advisor is Prof. Salvatore Ruggieri. 
+I am a PhD Candidate in Data Science at the Scuola Normale Superiore, Pisa, Italy, under the supervision of Prof. Salvatore Ruggieri. As an Early-Stage Researcher (ESR) with the NoBIAS ITN project at the University of Pisa, I'm also the recipient of a Marie Skłodowska-Curie Fellowship from the European Commission. My research focuses on causality-based methods for fairness and machine learning.
 
 
 Feel free to reach out at jose.alvarez[at]di.unipi.it
 
 
-**Updates**
+**News**
 
 *Apr. 2022:* Our paper on "Predicting and explaining employee turnover intention" has been accepted into the International Journal of Data Science and Analytics.
 
