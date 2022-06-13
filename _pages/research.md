@@ -9,7 +9,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Journal Articles 
 
-**Predicting and explaining employee turnover intention**. Matilde Lazzari, Jose M. Alvarez, and Salvatore Ruggieri. Forthcoming at *International Journal of Data Science and Analytics* (IJDSA), 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
+"Predicting and explaining employee turnover intention." Matilde Lazzari, Jose M. Alvarez, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
 ### Preprints
 
