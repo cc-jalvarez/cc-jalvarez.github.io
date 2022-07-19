@@ -21,6 +21,8 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 "Faire Causal Percetion" with Mayra Russo. 
 
+"Regularization of Decision Tree Learning for Domain Bias Adaptation" with Kristen Scott and Salvatore Ruggieri.
+
 "Molecular nodes: Rethinking the (Causal) Representation of Protected Attributes".
 
 "Constrained hiring: Market thickness and fairness" with Antonio Bencini and Salvatore Ruggieri.
