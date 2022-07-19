@@ -9,7 +9,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Journal Articles 
 
-"Predicting and explaining employee turnover intention." Matilde Lazzari, Jose M. Alvarez, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
+"Predicting and explaining employee turnover intention." Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
 ### Preprints
 
@@ -17,17 +17,17 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 ### Working Papers
 
-"Counterfactual situation testing" with Salvatore Ruggieri.
+"Counterfactual Situation Testing" with Salvatore Ruggieri.
 
-"What's the problem, Linda? The role of causal partial perspective(s) when formalizing fairness problems" with Mayra Russo. 
+"Faire Causal Percetion" with Mayra Russo. 
 
-"Molecular nodes: On meaningful causal representations of protected attributes."
+"Molecular nodes: Rethinking the (Causal) Representation of Protected Attributes".
 
 "Constrained hiring: Market thickness and fairness" with Antonio Bencini and Salvatore Ruggieri.
 
 ### Invited Seminars, Presentations, and Discussions
 
-ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT); Doctoral Consortium; Seoul, South Korea; June 2022.
+ACM Conference on Fairness, Accountability, and Transparency (FAccT); Doctoral Consortium; Seoul, South Korea; June 2022.
 
 European Workshop on Algorithmic Fairness (EWAF); Lightning Round Presentation; Zurich, Switzerland; June 2022.
 
