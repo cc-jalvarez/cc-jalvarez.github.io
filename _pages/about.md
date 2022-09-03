@@ -18,6 +18,8 @@ Feel free to reach out at jose.alvarez[at]di.unipi.it
 
 **News**
 
+*Sep. 2022:* From September until November, I'll be visiting KU Leuven's Declarative Languages and Artificial Intelligence section of Computer Science (DTAI) where I'll be working with Prof. Bettina Berendt. 
+
 *Apr. 2022:* Our paper on "Predicting and explaining employee turnover intention" has been accepted into the International Journal of Data Science and Analytics.
 
 *Mar. 2022:* I’ll be presenting my work on the molecular node for fair causal representation at ACM Conference on Fairness, Accountability, and Transparency (FAccT’22). See you June 21-24 in Seoul, South Korea.
