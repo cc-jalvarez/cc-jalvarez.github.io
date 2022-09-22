@@ -18,6 +18,12 @@ Feel free to reach out at jose.alvarez[at]di.unipi.it
 
 **News**
 
+*September 30, 2022:* I'll be presenting work on counterfactual situation testing at the first Comète on Ethical AI in Palaiseau, France.
+
+*September 12, 2022:* I've started my three-month visit to KU Leuven's Computer Science Department Declarative Languages and Artificial Intelligence (DTAI) section. I'll be working under Prof. Bettina Berendt. 
+
+**Older**
+
 *Sep. 2022:* From September until November, I'll be visiting KU Leuven's Declarative Languages and Artificial Intelligence section of Computer Science (DTAI) where I'll be working with Prof. Bettina Berendt. 
 
 *Apr. 2022:* Our paper on "Predicting and explaining employee turnover intention" has been accepted into the International Journal of Data Science and Analytics.
