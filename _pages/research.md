@@ -27,8 +27,9 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 ### Invited Seminars, Presentations, and Discussions
 
-- ACM Conference on Fairness, Accountability, and Transparency (FAccT); Doctoral Consortium; Seoul, South Korea; June 2022.
-- European Workshop on Algorithmic Fairness (EWAF); Lightning Round Presentation; Zurich, Switzerland; June 2022.
+- Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
+- ACM Conference on Fairness, Accountability, and Transparency (FAccT); *Doctoral Consortium*; Seoul, South Korea; June 2022.
+- European Workshop on Algorithmic Fairness (EWAF); *Lightning Round Presentation*; Zurich, Switzerland; June 2022.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
