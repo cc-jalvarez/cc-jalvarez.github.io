@@ -19,7 +19,7 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 "Counterfactual Situation Testing" with Salvatore Ruggieri.
 
-"Regularization of Decision Tree Learning for Domain Bias Adaptation" with Kristen Scott and Salvatore Ruggieri.
+"Regularization of Decision Tree Learning for Domain Bias Adaptation" with Kristen Scott, Bettina Berendt, and Salvatore Ruggieri.
 
 ### Work in progress
 
