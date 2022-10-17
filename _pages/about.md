@@ -18,17 +18,12 @@ Feel free to reach out at jose.alvarez[at]di.unipi.it
 
 **News**
 
+*October 17, 2022:* our paper, "Can We Trust Fair-AI?", led by Prof. Salvatore Ruggieri has been accepted to for the Senior Member Track at AAAI-23. 
+
+*October 14, 2022:* I successfully defended my second-year exam! I’m now officially a third-year PhD candidate. Thanks to my panel: B. Berendt, C. Castillo, G. Comandè, S. Matwin and my advisor S. Ruggieri.
+
 *September 30, 2022:* I'll be presenting work on counterfactual situation testing at the first [Comète on Ethical AI](https://www.lix.polytechnique.fr/ethicalai/) in Palaiseau, France.
 
 *September 22, 2022:* My contributed talk/poster on counterfactual situation testing has been accepted into the [IMS International Conference on Statistics and Data Science (ICSDS)](https://sites.google.com/view/icsds2022), which will take place on December 13-16 in Florence, Italy.
 
 *September 12, 2022:* I've started my three-month visit to KU Leuven's Computer Science Department [Declarative Languages and Artificial Intelligence](https://wms.cs.kuleuven.be/dtai) (DTAI) section. I'll be working under Prof. [Bettina Berendt](https://people.cs.kuleuven.be/~bettina.berendt/). 
-
-**Older**
-
-*June 8, 2022:* I’ll be presenting work on counterfactual reasoning for situation testing at the [European Workshop on Algorithmic Fairness (EWAF)](https://sites.google.com/view/ewaf22/) in Zurich, Switzerland.
-
-*April 2022:* Our paper "Predicting and explaining employee turnover intention" has been accepted into the International Journal of Data Science and Analytics.
-
-*March 2022:* I’ll be presenting my work on the molecular node for fair causal representation at ACM Conference on Fairness, Accountability, and Transparency (FAccT’22). See you June 21-24 in Seoul, South Korea.
-
