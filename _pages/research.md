@@ -7,15 +7,18 @@ author_profile: true
 
 My research lies within the fields of machine learning, causality, and ethical AI. I'm mainly interested in causality-based notions of fairness, structural counterfactual, and knowledge representation.
 
-### Published articles 
+### Journal articles 
 
 "Predicting and explaining employee turnover intention." Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
+### Conference articles
+
+
 ### Preprints
 
-Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Steffen Staab. "Fairness implications of encoding protected categorical attributes." *In submission*. [[paper](https://arxiv.org/abs/2201.11358)]
-
 ### Working papers
+
+Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Steffen Staab. "Fairness implications of encoding protected categorical attributes." [[paper](https://arxiv.org/abs/2201.11358)]
 
 "Counterfactual Situation Testing" with Salvatore Ruggieri.
 
