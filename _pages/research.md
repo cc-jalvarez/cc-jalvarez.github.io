@@ -16,7 +16,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Preprints
 
-**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." *In submission.* [[paper](/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
+**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." *In submission.* [[extended abstract](/files/AlvarezRuggieri_Abstract_CounterfactualSituationTesting.pdf)][[paper](/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
 
 ### Working papers
 
