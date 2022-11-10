@@ -16,7 +16,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Preprints
 
-**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." *In submission.* [[paper](cc-jalvarez.github.io/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
+**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." *In submission.* [[paper](/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
 
 ### Working papers
 
@@ -26,7 +26,7 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 "Regularization of Decision Tree Learning for Domain Bias Adaptation" with Kristen Scott, Bettina Berendt, and Salvatore Ruggieri.
 
-Perception as a Fairness Parameter, with Mayra Russo. [[extended abstract](cc-jalvarez.github.io/files/AlvarezRusso_Abstract_PerceptionFairnessParameter.pdf)]
+Perception as a Fairness Parameter, with Mayra Russo. [[extended abstract](/files/AlvarezRusso_Abstract_PerceptionFairnessParameter.pdf)]
 
 Constrained hiring: market thickness and fairness, with Antonio Bencini and Salvatore Ruggieri.
 
