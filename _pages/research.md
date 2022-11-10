@@ -32,7 +32,7 @@ Constrained hiring: market thickness and fairness, with Antonio Bencini and Salv
 
 ### Invited talks, presentations, and workshops
 
-- NeurIPS 2022 Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster*; New Orleans, USA; December 2022.
+- NeurIPS 2022 Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster Session*; New Orleans, USA; December 2022.
 - Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
 - ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT); *Doctoral Consortium*; Seoul, South Korea; June 2022.
 - European Workshop on Algorithmic Fairness (EWAF); *Lightning Round Presentation*; Zurich, Switzerland; June 2022.
