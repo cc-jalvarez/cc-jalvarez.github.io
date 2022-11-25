@@ -13,6 +13,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference articles
 
+Salvatore Ruggieri. **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. "Can We Trust Fair-AI?'" *AAAI Conference on Artificial Intelligence*, 2023.
 
 ### Preprints
 
