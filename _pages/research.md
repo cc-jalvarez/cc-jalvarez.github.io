@@ -13,13 +13,11 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference articles
 
-"Can We Trust Fair-AI?" Salvatore Ruggieri. **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence*, 2023.
-
-### Preprints
-
-**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." *In submission.* [[paper](/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
+"Can We Trust Fair-AI?" Salvatore Ruggieri. **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence*, 2023. [[paper](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st)]
 
 ### Working papers
+
+**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Fairness given the Difference." [[paper](/files/AlvarezRuggieri_Preprint_CounterfactualSituationTesting.pdf)]
 
 Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Steffen Staab. "Fairness implications of encoding protected categorical attributes." [[paper](https://arxiv.org/abs/2201.11358)]
 
@@ -27,9 +25,9 @@ Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Ste
 
 "Regularization of Decision Tree Learning for Domain Bias Adaptation" with Kristen Scott, Bettina Berendt, and Salvatore Ruggieri.
 
-Perception as a Fairness Parameter, with Mayra Russo.
+"Perception as a Fairness Parameter" with Mayra Russo.
 
-Constrained hiring: market thickness and fairness, with Antonio Bencini and Salvatore Ruggieri.
+"The Initial Ordering Ranking Problem" with Salvatore Ruggieri.
 
 ### Invited talks, presentations, and workshops
 
