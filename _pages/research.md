@@ -19,11 +19,11 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 **Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." [[arXiv](http://arxiv.org/abs/2302.11944)][[code](https://github.com/cc-jalvarez/counterfactual-situation-testing)]
 
+**Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. "Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." [[arXiv](https://arxiv.org/abs/2302.13846)][[code](https://github.com/ks555/domain-adaptive-trees)]
+
 Carlos Mougan, **Jose M. Alvarez**, Gourab K. Patro, Salvatore Ruggieri, and Steffen Staab. "Fairness implications of encoding protected categorical attributes." [[paper](https://arxiv.org/abs/2201.11358)]
 
 ### Work in Progress
-
-"Domain Adaptive Decision Trees" with Kristen Scott, Bettina Berendt, and Salvatore Ruggieri.
 
 "The Initial Ordering Ranking Problem" with Salvatore Ruggieri.
 
