@@ -7,11 +7,11 @@ author_profile: true
 
 My research lies within the fields of machine learning, causality, and ethical AI. I'm mainly interested in causal notions of fairness, structural counterfactuals, and knowledge representation.
 
-### Conference Articles
+### Conference Papers
 
 "Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence*, 2023. [[paper](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st)]
 
-### Journal Articles 
+### Journal Papers 
 
 "Predicting and explaining employee turnover intention." Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
