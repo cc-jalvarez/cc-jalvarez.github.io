@@ -17,5 +17,4 @@ Feel free to reach out at jose.alvarez[at]sns.it
 
 **News**
 
-*Feb. 24, 2023:* New version of Counterfactual Situation Testing avaliable on [arXiv](http://arxiv.org/abs/2302.11944).
- 
+*Apr. 7, 2023:* Our paper on Domain Adaptive Decivion Trees has been accepted to ACM FAccT 2023. See you in Chicago.
