@@ -23,9 +23,11 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 **Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." [[arXiv](http://arxiv.org/abs/2302.11944)][[code](https://github.com/cc-jalvarez/counterfactual-situation-testing)]
 
+**Jose M. Alvarez**. "What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem." [[arXiv](https://arxiv.org/abs/2305.09535)]
+
 ### Work in Progress
 
-"The Initial Ordering Ranking Problem" with Salvatore Ruggieri.
+"The Initial Screening Order Problem" with Salvatore Ruggieri.
 
 ### Invited talks, presentations, and workshops
 
