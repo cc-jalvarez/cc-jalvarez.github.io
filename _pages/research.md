@@ -9,11 +9,11 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference Papers
 
- "Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in ACM AIES 2023.* [[arXiv](https://arxiv.org/abs/2201.11358)]
+"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in ACM AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
 
-"Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. *ACM FAccT 2023.* [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
+"Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. *ACM FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
 
-"Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence*, 2023. [[paper](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st)]
+"Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st)]
 
 ### Journal Papers 
 
