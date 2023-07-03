@@ -13,7 +13,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 "Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. *ACM FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
 
-"Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](http://pages.di.unipi.it/ruggieri/Papers/aaai2023st)]
+"Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26798)]
 
 ### Journal Papers 
 
