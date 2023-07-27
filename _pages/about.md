@@ -17,6 +17,8 @@ Feel free to reach out at jose.alvarez[at]sns.it
 
 **News**
 
-*May 5, 2023:* Our paper on Fairness Implications of Encoding Protected Categorical Attributes has been accepted to ACM AIES 2023. See you in Montreal.
+*Jul. 26, 2023:* Our paper on Counterfactual Situation Testing has been accepted to ACM EAAMO 2023. I will also be presenting this work at ECML's BIAS workshop.
 
-*Apr. 7, 2023:* Our paper on Domain Adaptive Decivion Trees has been accepted to ACM FAccT 2023. See you in Chicago.
+*May 5, 2023:* Our paper on Fairness Implications of Encoding Protected Categorical Attributes has been accepted to ACM AIES 2023.
+
+*Apr. 7, 2023:* Our paper on Domain Adaptive Decivion Trees has been accepted to ACM FAccT 2023.
