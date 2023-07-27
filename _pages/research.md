@@ -9,6 +9,8 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference Papers
 
+"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in ACM EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
+
 "Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in ACM AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
 
 "Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. *ACM FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
@@ -20,8 +22,6 @@ My research lies within the fields of machine learning, causality, and ethical A
 "Predicting and explaining employee turnover intention." Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
 ### Working Papers
-
-**Jose M. Alvarez**, Salvatore Ruggieri. "Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." [[arXiv](http://arxiv.org/abs/2302.11944)][[code](https://github.com/cc-jalvarez/counterfactual-situation-testing)]
 
 **Jose M. Alvarez**. "What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem." [[arXiv](https://arxiv.org/abs/2305.09535)]
 
