@@ -9,11 +9,11 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference Papers
 
-"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in ACM EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
+"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
 
-"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in ACM AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
+"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
 
-"Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Salvatore Ruggieri, Bettina Berendt. *ACM FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
+"Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri. *FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
 
 "Can We Trust Fair-AI?" Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26798)]
 
@@ -23,11 +23,15 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Working Papers
 
-**Jose M. Alvarez**. "What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem." [[arXiv](https://arxiv.org/abs/2305.09535)]
+*What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem*. [[arXiv](https://arxiv.org/abs/2305.09535)]
+
+*The Initial Screening Order Problem* with Salvatore Ruggieri. [[arXiv](TODO)]
 
 ### Work in Progress
 
-"The Initial Screening Order Problem" with Salvatore Ruggieri.
+Weighted Partial Dependence Plots.
+
+Get me a comparator: causal and legal reasoning for proving algorithmic discrimination.
 
 ### Invited talks, presentations, and workshops
 
