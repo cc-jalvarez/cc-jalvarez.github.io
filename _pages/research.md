@@ -25,7 +25,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 *What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem*. [[arXiv](https://arxiv.org/abs/2305.09535)]
 
-*The Initial Screening Order Problem* with Salvatore Ruggieri. [[arXiv](TODO)]
+*The Initial Screening Order Problem* with Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398)]
 
 ### Work in Progress
 
