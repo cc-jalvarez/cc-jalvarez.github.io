@@ -11,7 +11,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 "Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
 
-"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
+"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *AIES 2023*. [[paper](https://dl.acm.org/doi/10.1145/3600211.3604657)]
 
 "Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri. *FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
 
@@ -35,11 +35,11 @@ Get me a comparator: causal and legal reasoning for proving algorithmic discrimi
 
 ### Invited talks, presentations, and workshops
 
-- IMS International Conference International Conference on Statistics and Data Science; *Poster Session*; Florence, Italy; December 2022.
-- NeurIPS 2022 Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster Session*; New Orleans, USA; December 2022.
-- Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
-- ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT); *Doctoral Consortium*; Seoul, South Korea; June 2022.
-- European Workshop on Algorithmic Fairness (EWAF); *Lightning Round Presentation*; Zurich, Switzerland; June 2022.
+- IMS International Conference on Statistics and Data Science; *Poster Session*; Florence, Italy; December 2022.
+- NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster Session*; New Orleans, USA; December 2022.
+- 1st Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
+- ACM FAccT; *Doctoral Consortium*; Seoul, South Korea; June 2022.
+- 1st European Workshop on Algorithmic Fairness; *Lightning Round Presentation*; Zurich, Switzerland; June 2022.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
