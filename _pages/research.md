@@ -11,7 +11,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 "Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
 
-"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *To appear in AIES 2023*. [[arXiv](https://arxiv.org/abs/2201.11358)]
+"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *AIES 2023*. [[paper](https://dl.acm.org/doi/10.1145/3600211.3604657)]
 
 "Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri. *FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
 
