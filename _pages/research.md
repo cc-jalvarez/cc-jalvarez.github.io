@@ -9,7 +9,7 @@ My research lies within the fields of machine learning, causality, and ethical A
 
 ### Conference Papers
 
-"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *To appear in EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
+"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *Forthcoming in EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
 
 "Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *AIES 2023*. [[paper](https://dl.acm.org/doi/10.1145/3600211.3604657)]
 
@@ -33,8 +33,13 @@ Weighted Partial Dependence Plots.
 
 Get me a comparator: causal and legal reasoning for proving algorithmic discrimination.
 
+### Other
+
+Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: Jose M. Alvarez, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. CEUR Workshop Proceedings 3442, CEUR-WS.org 2023. [[EWAF 2023](https://ceur-ws.org/Vol-3442/)]
+
 ### Invited talks, presentations, and workshops
 
+- ECML PKDD 3rd Workshop on Bias and Fairness in AI; *Poster Session*; Turin, Italy; September 2023.
 - IMS International Conference on Statistics and Data Science; *Poster Session*; Florence, Italy; December 2022.
 - NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster Session*; New Orleans, USA; December 2022.
 - 1st Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
