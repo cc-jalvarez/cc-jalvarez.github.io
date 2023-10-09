@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at Scuola Normale Superiore, a Marie Skłodowska-Curie Early-Stage Researcher with the [NoBIAS ITN](https://nobias-project.eu/), and a member of the [KDD Lab](https://kdd.isti.cnr.it/) at the University of Pisa. I study fairness for machine learning using causality-based methods. My advisor is Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). I am also a member of the orginizing comitte for the European Workshop on Algorithmic Fairness ([EWAF](https://sites.google.com/view/ewaf23/?authuser=0)).
+I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore. My advisor is Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). I am also a Marie Skłodowska-Curie Early-Stage Researcher with the [NoBIAS: AI wihtout Bias ITN](https://nobias-project.eu/) and a member of the [KDD Lab](https://kdd.isti.cnr.it/) at the University of Pisa. I study fairness in machine learning using causality-based methods. I am also a member of the orginizing comitte for the European Workshop on Algorithmic Fairness ([EWAF](https://sites.google.com/view/ewaf23/?authuser=0)).
 
 Before my PhD, I was a Senior Risk Modeler at Deloitte Belgium for almost four years. I specialized in building financial and operational risk models for banks and energy companies, respectively. Prior to Deloitte, I was an Economist for the UK Government Cabinet Office.
 
