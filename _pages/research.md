@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies within the fields of machine learning, causality, and ethical AI. I'm mainly interested in causal notions of algorithmic fairness, structural counterfactuals, and knowledge representation.
+My research lies within the fields of machine learning, causality, and ethical AI. I am mainly interested in causal notions of fairness, counterfactual generation, and algorithimic discrimination.
 
 ### Conference Papers
 
@@ -39,8 +39,7 @@ Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Sw
 
 ''Gauche caviar.'' *The TSEconomist*. Issue Num. 16, September 2017. [[article](https://thetseconomist.wordpress.com/2017/09/06/gauche-caviar/)]
 
-
-### Invited talks, presentations, and workshops
+### Participation
 
 - ACM EAAMO, *Doctoral Consortium*; Boston, USA; October 2023.
 - ECML PKDD 3rd Workshop on Bias and Fairness in AI; *Poster Session*; Turin, Italy; September 2023.
