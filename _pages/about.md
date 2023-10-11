@@ -12,13 +12,13 @@ I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Nor
 
 My main research is on algorithmic fairness, where I use causal machine learning to formalize, detect, and prevent potential discrimination in automated decision-making systems. I focus mostly on the EU context.
 
-This academic year I will be looking for post-doc opportunities.
+I am on the 2023-2024 job market, looking for post-doc opportunities.
 
 Feel free to reach out at jose.alvarez[at]sns.it
 
 **Activities**
 
-I was one of the organizers for the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home), and am one of the founders and a current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
+I co-organized the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home), and a co-founder and current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
 
 I am a member of Mechanism Design for Social Good, or [MD4SG](https://www.md4sg.com/), organization.
 
