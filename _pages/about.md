@@ -12,7 +12,7 @@ I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Nor
 
 My main research is on algorithmic fairness, where I use causal machine learning to formalize, detect, and prevent potential discrimination in automated decision-making systems.
 
-This academic year, I will be looking for post-doc opportunities.
+This academic year, I will be looking for post-doc opportunities after my PhD.
 
 Feel free to reach out at jose.alvarez[at]sns.it
 
@@ -20,4 +20,8 @@ Feel free to reach out at jose.alvarez[at]sns.it
 **News**
 
 *Jul. 26, 2023:* Counterfactual Situation Testing has been accepted to ACM EAAMO 2023. See you in Boston this October.
+
+*May 5, 2023:* Our paper on Fairness Implications of Encoding Protected Categorical Attributes has been accepted to ACM AIES 2023.
+
+*Apr. 7, 2023:* Our paper on Domain Adaptive Decivion Trees has been accepted to ACM FAccT 2023. See you in Chicago this June.
 
