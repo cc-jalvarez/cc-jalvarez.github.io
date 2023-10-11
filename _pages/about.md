@@ -10,14 +10,15 @@ redirect_from:
 
 I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore, Pisa, Italy, under the supervision of Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher (ESR) with the [NoBIAS: AI wihtout Bias ITN](https://nobias-project.eu/) at the University of Pisa, I'm also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) from the European Commission.
 
-I was one of the organizers for the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home). I am also one of the founders of the European Association for Algorithmic Fairness, which was set up to ensure the growth of EWAF and its eventual transition into a conference. 
-
 My main research is on algorithmic fairness, where I use causal machine learning to formalize, detect, and prevent potential discrimination in automated decision-making systems. I focus mostly on the EU context.
 
-This academic year, I will be looking for post-doc opportunities after my PhD.
+This academic year I will be looking for post-doc opportunities after.
 
 Feel free to reach out at jose.alvarez[at]sns.it
 
+**Activities**
+
+I was one of the organizers for the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home). I am also one of the founders and current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
 
 **News**
 
