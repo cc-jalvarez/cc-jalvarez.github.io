@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "About"
+title: "Bio"
 permalink: /whoami/
 author_profile: true
 redirect_from:
 ---
 
-I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore. My advisor is Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). I am also a Marie Skłodowska-Curie Early-Stage Researcher with the [NoBIAS: AI wihtout Bias ITN](https://nobias-project.eu/) and a member of the [KDD Lab](https://kdd.isti.cnr.it/) at the University of Pisa. I study fairness in machine learning using causality-based methods. I am also a member of the orginizing comitte for the European Workshop on Algorithmic Fairness ([EWAF](https://sites.google.com/view/ewaf23/?authuser=0)).
+Before Pisa, I received a BA (double major) in Economics and History from the [University of Florida](https://clas.ufl.edu/), USA, and a MSc in Econometrics and Empirical Economics from the [Toulouse School of Economics](https://www.tse-fr.eu/), France. I spent almost four years as a Risk Modeler at [Deloitte](https://www2.deloitte.com/be/en.html) in Brussels, Belgium, reaching the level of Senior Consultant. There I specialized in building financial and operational risk models using statistical machine learning for banks and energy companies, respectively. I was also chosen to participate at the [Deloitte aiStudio](https://www2.deloitte.com/de/de/pages/risk/solutions/aistudio.html) in Frankfurt, Germany, where I developed [Clairvoyance](https://www2.deloitte.com/de/de/pages/risk/solutions/ai-based-forecasting-solution-clairvoyance.html), a time series forecasting tool. I have also been a Summer Economist for the UK Government Cabinet Office, and a Visiting Researcher at KU Leuven, Generali Italia, and Schufa Holding AG.
 
-Before my PhD, I was a Senior Risk Modeler at Deloitte Belgium for almost four years. I specialized in building financial and operational risk models for banks and energy companies, respectively. Prior to Deloitte, I was an Economist for the UK Government Cabinet Office.
+I was born and raised in Caracas, Venezuela. After finishing high-school, I won a full scholarship to study the IB at the [Lester B. Pearson United World College](https://www.pearsoncollege.ca/), Canada. This allowed me to attend the University of Florida under a fulll scholarship as a [Davis United World College Scholar](https://www.davisuwcscholars.org/). I currently live in Florence, Italy.
 
-I hold MSc in Econometrics and Empirical Economics from the Toulouse School of Economics, France, and a BA in Economics and History from the University of Florida, USA, where I attended under a fulll-scholarship as a Davis United World College Scholar. I am originally from Caracas, Venezuela. I currently live in Florence, Italy.
-
-When I'm not learning from machines, I like to play football, read books, and listen to music.
+When I am not learning from machines, I play football for the EUI Squadra (Amatori AICS B1), read books, and listen to music.
