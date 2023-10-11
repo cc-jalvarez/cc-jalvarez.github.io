@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+title: "About"
 permalink: /whoami/
 author_profile: true
 redirect_from:
@@ -10,4 +10,4 @@ Before Pisa, I received a BA (double major) in Economics and History from the [U
 
 I was born and raised in Caracas, Venezuela. After finishing high-school, I won a full scholarship to study the IB at the [Lester B. Pearson United World College](https://www.pearsoncollege.ca/), Canada. This allowed me to attend the University of Florida under a fulll scholarship as a [Davis United World College Scholar](https://www.davisuwcscholars.org/). I currently live in Florence, Italy.
 
-When I am not learning from machines, I play football for the EUI Squadra (Amatori AICS B1), read books, and listen to music.
+When I am not learning from machines, I play football for the EUI Squadra (Amatori AICS B1), read books, and listen to music with sometimes attempting to play drums.
