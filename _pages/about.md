@@ -18,7 +18,7 @@ Feel free to reach out at jose.alvarez[at]sns.it
 
 **Activities**
 
-I was one of the organizers for the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home), and am one of the founders and current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
+I was one of the organizers for the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home), and am one of the founders and a current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
 
 I am a member of Mechanism Design for Social Good, or [MD4SG](https://www.md4sg.com/), organization.
 
