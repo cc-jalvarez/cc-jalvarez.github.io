@@ -42,12 +42,12 @@ Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Sw
 ### Participation
 
 - ACM EAAMO, *Doctoral Consortium*; Boston, USA; October 2023.
-- ECML PKDD 3rd Workshop on Bias and Fairness in AI; *Poster Session*; Turin, Italy; September 2023.
+- ECML PKDD 3rd Workshop on Bias and Fairness in AI; *Presentation*; Turin, Italy; September 2023.
 - IMS International Conference on Statistics and Data Science; *Poster Session*; Florence, Italy; December 2022.
 - NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Privacy; *Poster Session*; New Orleans, USA; December 2022.
-- 1st Comete Workshop on Ethical AI; *Invited Speaker*; Palaiseau, France; September 30, 2022.
+- 1st Comete Workshop on Ethical AI; *Presentation*; Palaiseau, France; September 30, 2022.
 - ACM FAccT; *Doctoral Consortium*; Seoul, South Korea; June 2022.
-- 1st European Workshop on Algorithmic Fairness; *Lightning Round Presentation*; Zurich, Switzerland; June 2022.
+- 1st European Workshop on Algorithmic Fairness; *Presentation*; Zurich, Switzerland; June 2022.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
