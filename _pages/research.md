@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies within the fields of machine learning, causality, and ethical AI. I am mainly interested in causal notions of fairness, counterfactual generation, and algorithimic discrimination.
+My research lies within the fields of machine learning, causality, and ethical AI. I am mainly interested in causal notions of fairness, counterfactual generation, and algorithmic discrimination.
+
+Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ) profile for more details.
 
 ### Conference Papers
 
