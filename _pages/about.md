@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore, Pisa, Italy, under the supervision of Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher (ESR) with the [NoBIAS: AI wihtout Bias ITN](https://nobias-project.eu/) at the University of Pisa, I'm also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) from the European Commission.
+I am a PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore, Pisa, Italy, under the supervision of Prof. [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher (ESR) with the [NoBIAS: AI wihtout Bias ITN](https://nobias-project.eu/) at the University of Pisa's [KKD Lab](https://kdd.isti.cnr.it/people/alvarez-jose-manuel), I'm also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) from the European Commission.
 
 My main research is on algorithmic fairness, where I use causal machine learning to formalize, detect, and prevent potential discrimination in automated decision-making systems. I focus mostly on the EU context.
 
