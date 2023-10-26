@@ -12,6 +12,6 @@ Between Pisa and Toulouse, I spent almost four years as a Risk Modeler at [Deloi
 
 I have also been a Summer Economist for the UK Government Cabinet Office, and recently a Visiting Researcher at KU Leuven, Generali Italia, and Schufa Holding AG.
 
-I was born and raised in Caracas, Venezuela. After finishing high-school, I won a full scholarship to study the IB at the [Lester B. Pearson United World College](https://www.pearsoncollege.ca/) in Canada. This allowed me to attend the University of Florida under a fulll scholarship as a [Davis United World College Scholar](https://www.davisuwcscholars.org/). I currently live in Florence, Italy.
+Born and raised in Caracas, Venezuela, after finishing high-school I won a full scholarship to study the IB at the [Lester B. Pearson United World College](https://www.pearsoncollege.ca/) in Canada. This allowed me to attend the University of Florida under a fulll scholarship as a [Davis United World College Scholar](https://www.davisuwcscholars.org/). I currently live in Florence, Italy.
 
 When I am not learning from machines, I play football for the EUI Squadra (Amatori AICS B1), read books, and jam on the drums.
