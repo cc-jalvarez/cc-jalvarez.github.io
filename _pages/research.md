@@ -11,7 +11,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op
 
 ### Conference Papers
 
-"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *Forthcoming in ACM EAAMO 2023*. [[arXiv](http://arxiv.org/abs/2302.11944)]
+"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **Jose M. Alvarez**, Salvatore Ruggieri. *ACM EAAMO 2023*. [[paper](https://dl.acm.org/doi/10.1145/3617694.3623222)]
 
 "Fairness implications of encoding protected categorical attributes." Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab. *ACM AIES 2023*. [[paper](https://dl.acm.org/doi/10.1145/3600211.3604657)]
 
