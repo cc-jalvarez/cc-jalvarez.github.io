@@ -7,7 +7,7 @@ author_profile: true
 
 My research lies within the fields of machine learning, causality, and ethical AI. I am mainly interested in causal notions of fairness, counterfactual generation, and algorithmic discrimination.
 
-Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ) profile for more details.
+Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ) and [dblp](https://dblp.org/pid/59/6703-2.html) profiles for more details.
 
 ### Conference Papers
 
@@ -29,7 +29,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op
 
 *The Initial Screening Order Problem* with Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398)]
 
-### Other Publications
+### Other
 
 Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. CEUR Workshop Proceedings 3442, CEUR-WS.org 2023. [[EWAF 2023](https://ceur-ws.org/Vol-3442/)]
 
