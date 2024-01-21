@@ -20,12 +20,8 @@ Feel free to reach out at jose.alvarez[at]sns.it
 
 I co-organized the 2nd European Workshop on Algorithmic Fairness, or [EWAF'23](https://sites.google.com/view/ewaf23/home), and I am a co-founder and current member of the European Association for Algorithmic Fairness, which ensures the growth of EWAF and its eventual transition into a conference.
 
-I am a member of Mechanism Design for Social Good, or [MD4SG](https://www.md4sg.com/), organization.
+I am a member of the [KDD Lab](https://kdd.isti.cnr.it/); [EU Horizon 2020 NoBIAS ITN Project](https://nobias-project.eu/); and [MD4SG](https://www.md4sg.com/).
 
 **News**
 
-*Jul. 26, 2023:* Counterfactual Situation Testing has been accepted to ACM EAAMO 2023. See you in Boston this October.
-
-*May 5, 2023:* Our paper on Fairness Implications of Encoding Protected Categorical Attributes has been accepted to ACM AIES 2023.
-
-*Apr. 7, 2023:* Our paper on Domain Adaptive Decivion Trees has been accepted to ACM FAccT 2023. See you in Chicago this June.
+Stay tune...
