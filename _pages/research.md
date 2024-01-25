@@ -25,9 +25,9 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 *What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem*. [[arXiv](https://arxiv.org/abs/2305.09535)]
 
-*Causal Perception* with Salvatore Ruggieri.
+*Causal Perception* with Salvatore Ruggieri. [[arXiv](https://arxiv.org/pdf/2401.13408.pdf)]
 
-*The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri.
+*The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398)]
 
 ### Other
 
