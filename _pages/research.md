@@ -27,7 +27,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 *Causal Perception* with Salvatore Ruggieri. [[arXiv](https://arxiv.org/pdf/2401.13408.pdf)]
 
-*The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398)]
+*The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398v2)]
 
 ### Other
 
