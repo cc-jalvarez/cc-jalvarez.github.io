@@ -14,4 +14,6 @@ I have also been a Summer Economist for the UK Government Cabinet Office, and re
 
 Born and raised in Caracas, Venezuela, after finishing high-school I won a full scholarship to study the IB at the [Lester B. Pearson United World College](https://www.pearsoncollege.ca/) in Canada. UWC allowed me to attend the University of Florida under a fulll scholarship as a [Davis United World College Scholar](https://www.davisuwcscholars.org/).
 
-When I am not learning from machines, I play football (Amatori AICS B1), read books, and play drums. I currently live in Florence, Italy.
+When I am not learning from machines, I play football (Amatori AICS B1), read books, and play drums. 
+
+I currently live in Florence, Italy.
