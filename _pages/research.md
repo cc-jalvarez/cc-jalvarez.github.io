@@ -17,7 +17,9 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 "Can We Trust Fair-AI?" Salvatore Ruggieri, **JM Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26798)]
 
-### Journal Papers 
+### Journal Papers
+
+"Policy advice and best practices on bias and fairness in AI." **JM Alvarez**, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri.  *Forthcoming in Ethics and Information Technology*, 2024.
 
 "Predicting and explaining employee turnover intention." Matilde Lazzari, **JM Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics (IJDSA)*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
 
