@@ -24,6 +24,7 @@ I am a member of the [KDD Lab](https://kdd.isti.cnr.it/); [NoBIAS ITN](https://n
 
 **News**
 
-- 01.31.24: I'll be removing *The Conjunction Fallacy as a Fairness Problem* from [arXiv](https://arxiv.org/abs/2305.09535) as *Causal Perception* replaces it; it will appear as a chapter in an upcoming NoBIAS book.
+- 01.02.24: *Policy advice and best practices on bias and fairness in AI* has been accepted for publication in the Journal of Ethics and Information Technology.
+- 01.31.24: I'll be removing *The Conjunction Fallacy as a Fairness Problem* from [arXiv](https://arxiv.org/abs/2305.09535).
 - 01.24.24: I've updated *The Initial Screening Order Problem* on [arXiv](https://arxiv.org/abs/2307.15398v2).
 - 01.24.24: I've added a new working paper, *Causal Perception*, on [arXiv](https://arxiv.org/abs/2401.13408).
