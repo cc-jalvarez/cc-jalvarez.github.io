@@ -29,6 +29,10 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 *The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398v2)]
 
+*Wighted partial dependence plots* with Andrea Pugnana and Salvatore Ruggieri.
+
+*Revisiting the Discrimination Comparator* with Salvatore Ruggieri.
+
 ### Other
 
 Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **JM Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. CEUR Workshop Proceedings 3442, CEUR-WS.org 2023. [[EWAF 2023](https://ceur-ws.org/Vol-3442/)]
