@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore, Italy, under the supervision of [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher with the [NoBIAS ITN](https://nobias-project.eu/) at the [KDD Lab](https://kdd.isti.cnr.it/) of the University of Pisa, I'm also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) from the European Commission through Horizon 2020.
+I'm a fourth-year PhD Candidate in [Data Science](https://www.phd-ai.it/) at the Scuola Normale Superiore, Italy, under the supervision of [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher with the [NoBIAS ITN](https://nobias-project.eu/) at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/), I'm also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/).
 
 My main research area is algorithmic fairness, with a focus on causal reasoning and data science applications for decision-making systems.
 
