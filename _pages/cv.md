@@ -11,7 +11,7 @@ redirect_from:
 
 <iframe src="/files/AlvarezJoseCV.pdf" width="75%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download the displayed CV [here](/files/AlvarezJoseCV.pdf). You can also find a shorter version of my CV [here](/files/AlvarezJoseCVPro.pdf).
+<!-- Download the displayed CV [here](/files/AlvarezJoseCV.pdf). You can also find a shorter version of my CV [here](/files/AlvarezJoseCVPro.pdf).
 
 <!-- Work experience
 ======
