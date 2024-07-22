@@ -2,11 +2,11 @@
 layout: archive
 title: "Bio"
 permalink: /bio/
-author_profile: true
+author_profile: false
 redirect_from:
 ---
 
-I received a BA (double major) in Economics and History from the [University of Florida](https://clas.ufl.edu/), USA, and a MSc in Econometrics and Empirical Economics from the [Toulouse School of Economics](https://www.tse-fr.eu/), France. 
+I received a B.A. (double major) in Economics and History from the [University of Florida](https://clas.ufl.edu/) in Gainesville, USA, and a M.Sc. in Econometrics and Empirical Economics from the [Toulouse School of Economics](https://www.tse-fr.eu/) in Toulouse, France. 
 
 Before Pisa, I worked for three years as a Risk Modeler at [Deloitte](https://www2.deloitte.com/be/en.html) in Brussels, Belgium, reaching the level of Senior Consultant. I specialized in building and deploying financial and operational risk models using statistical machine learning for banks and energy companies, respectively. I was also chosen to participate at the [Deloitte aiStudio](https://www2.deloitte.com/de/de/pages/risk/solutions/aistudio.html) in Frankfurt, Germany, where I developed [Clairvoyance](https://www2.deloitte.com/de/de/pages/risk/solutions/ai-based-forecasting-solution-clairvoyance.html), a time series forecasting tool. I also interned as an Economist at the UK Cabinet Office in the summer of 2016. 
 
