@@ -9,13 +9,21 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 ### Conference Papers
 
-"Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference." **JM Alvarez**, Salvatore Ruggieri. *ACM EAAMO 2023*. [[paper](https://dl.acm.org/doi/10.1145/3617694.3623222)]
+<span style="color:CornflowerBlue">[Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)<span>.\
+**Jose M. Alvarez**, Salvatore Ruggieri.\
+*ACM EAAMO 2023*.
 
-"Fairness implications of encoding protected categorical attributes." Carlos Mougan, **JM Alvarez**, Salvatore Ruggieri, and Steffen Staab. *ACM AIES 2023*. [[paper](https://dl.acm.org/doi/10.1145/3600211.3604657)]
+[Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657).\ 
+Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab.\
+*ACM AIES 2023*.
 
-"Domain Adaptive Decision Trees: Implications for Accuracy and Fairness." **JM Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri. *ACM FAccT 2023*. [[paper](https://dl.acm.org/doi/10.1145/3593013.3594008)]
+[Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008).\
+**Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri.\
+*ACM FAccT 2023*.
 
-"Can We Trust Fair-AI?" Salvatore Ruggieri, **JM Alvarez**, Andrea Pugnanna, Laura State, Franco Turini. *AAAI Conference on Artificial Intelligence 2023*. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26798)]
+[Can We Trust Fair-AI?](https://ojs.aaai.org/index.php/AAAI/article/view/26798)\ 
+Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini.\ 
+*AAAI Conference on Artificial Intelligence 2023*.
 
 ### Journal Papers
 
