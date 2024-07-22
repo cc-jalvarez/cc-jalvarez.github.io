@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: false
 ---
 
 Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ), [dblp](https://dblp.org/pid/59/6703-2.html), and [arXiv](https://arxiv.org/search/cs?query=0000-0001-9412-9013&searchtype=orcid&abstracts=show&order=-announced_date_first&size=100) profiles for more details.
 
-### Conference Papers
+## Conference Papers
 
 [Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -25,7 +25,7 @@ Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
 Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini\
 *AAAI 2023*
 
-### Journal Papers
+## Journal Papers
 
 [Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
 **Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
@@ -35,7 +35,7 @@ Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Tu
 Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 *International Journal of Data Science and Analytics 2022*
 
-### Working Papers
+## Working Papers
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -53,16 +53,6 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
 *Preprint*
 
-### Other
+## Other
 
 [Proceedings of the 2nd European Workshop on Algorithmic Fairness](https://ceur-ws.org/Vol-3442/), Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. *CEUR Workshop Proceedings 3442, CEUR-WS.org 2023*.
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
