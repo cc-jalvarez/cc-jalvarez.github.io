@@ -28,7 +28,7 @@ Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Tu
 ### Journal Papers
 
 [Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
-**Jose M. Alvarez**, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
+**Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
 *Ethics and Information Technology 2024*
 
 [Predicting and explaining employee turnover intention](https://link.springer.com/article/10.1007/s41060-022-00329-w)\
@@ -55,7 +55,7 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 
 ### Other
 
-Proceedings of the 2nd European Workshop on Algorithmic Fairness, Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **JM Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. CEUR Workshop Proceedings 3442, CEUR-WS.org 2023. [[EWAF 2023](https://ceur-ws.org/Vol-3442/)]
+[Proceedings of the 2nd European Workshop on Algorithmic Fairness](https://ceur-ws.org/Vol-3442/), Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. *CEUR Workshop Proceedings 3442, CEUR-WS.org 2023*.
 
 ### Articles
 
