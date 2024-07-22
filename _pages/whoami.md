@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: "Bio"
 permalink: /whoami/
 author_profile: true
 redirect_from:
