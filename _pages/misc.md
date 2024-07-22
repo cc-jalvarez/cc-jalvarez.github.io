@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Misc"
+title: ""
 permalink: /misc/
 author_profile: false
 redirect_from:
 ---
 
-## Articles
+### Articles
 
 [Gauche caviar](https://thetseconomist.wordpress.com/2017/09/06/gauche-caviar/). *The TSEconomist*. Issue Num. 16, September 2017.
 
@@ -14,4 +14,4 @@ redirect_from:
 
 [Heil Benny! A brief look at jazz during the Third Reich](https://thetseconomist.wordpress.com/archive/january-2016/heil-benny-a-brief-look-at-jazz-during-the-third-reich/). *The TSEconomist*. Issue Num. 11, December 2015.
 
-## Podcasts
+### Podcasts
