@@ -9,7 +9,7 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 ### Conference Papers
 
-<span style="color:CornflowerBlue">[Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)<span>\
+[Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *ACM EAAMO 2023*
 
