@@ -5,9 +5,13 @@ permalink: /research/
 author_profile: false
 ---
 
-Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ), [dblp](https://dblp.org/pid/59/6703-2.html), and [arXiv](https://arxiv.org/search/cs?query=0000-0001-9412-9013&searchtype=orcid&abstracts=show&order=-announced_date_first&size=100) profiles for more details.
+Broadly, I am interested in data science tools for algorithmic decision-making and its societal implications. My work focuses on the intersection of causal inference, machine learning, and algorithmic fairness. Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ), [dblp](https://dblp.org/pid/59/6703-2.html), and [arXiv](https://arxiv.org/search/cs?query=0000-0001-9412-9013&searchtype=orcid&abstracts=show&order=-announced_date_first&size=100) profiles for more details.
 
-## Conference Papers
+## Publications
+
+[Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
+**Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
+*Ethics and Information Technology 2024*
 
 [Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -25,12 +29,6 @@ Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
 Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini\
 *AAAI 2023*
 
-## Journal Papers
-
-[Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
-**Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
-*Ethics and Information Technology 2024*
-
 [Predicting and explaining employee turnover intention](https://link.springer.com/article/10.1007/s41060-022-00329-w)\
 Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 *International Journal of Data Science and Analytics 2022*
@@ -39,7 +37,7 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
-*Preprint*
+*Under submission*
 
 [Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator](https://arxiv.org/abs/2405.13693)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -51,7 +49,7 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 
 [The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
-*Preprint*
+*Under submission*
 
 ## Other
 
