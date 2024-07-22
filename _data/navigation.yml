@@ -2,7 +2,7 @@
 main:
 
   - title: "Bio"
-    url: /whoami/
+    url: /bio/
     
   - title: "Research"
     url: /research/
