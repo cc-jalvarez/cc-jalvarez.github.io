@@ -9,37 +9,49 @@ Visit my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=lis
 
 ### Conference Papers
 
-<span style="color:CornflowerBlue">[Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)<span>.\
-**Jose M. Alvarez**, Salvatore Ruggieri.\
-*ACM EAAMO 2023*.
+<span style="color:CornflowerBlue">[Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)<span>\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*ACM EAAMO 2023*
 
-[Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657).\ 
-Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab.\
-*ACM AIES 2023*.
+[Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657)\
+Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
+*ACM AIES 2023*
 
-[Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008).\
-**Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri.\
-*ACM FAccT 2023*.
+[Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008)\
+**Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri\
+*ACM FAccT 2023*
 
-[Can We Trust Fair-AI?](https://ojs.aaai.org/index.php/AAAI/article/view/26798)\ 
-Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini.\ 
-*AAAI Conference on Artificial Intelligence 2023*.
+[Can We Trust Fair-AI?](https://ojs.aaai.org/index.php/AAAI/article/view/26798)\
+Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini\
+*AAAI 2023*
 
 ### Journal Papers
 
-"Policy advice and best practices on bias and fairness in AI." **JM Alvarez**, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri.  *Ethics and Information Technology*, 2024. [[paper](https://doi.org/10.1007/s10676-024-09746-w)]
+[Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
+**Jose M. Alvarez**, Alejandra Bringas-Colmenarejo, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
+*Ethics and Information Technology 2024*
 
-"Predicting and explaining employee turnover intention." Matilde Lazzari, **JM Alvarez**, and Salvatore Ruggieri. *International Journal of Data Science and Analytics*, 2022. [[paper](https://link.springer.com/article/10.1007/s41060-022-00329-w)]
+[Predicting and explaining employee turnover intention](https://link.springer.com/article/10.1007/s41060-022-00329-w)\
+Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
+*International Journal of Data Science and Analytics 2022*
 
 ### Working Papers
 
-*Causal Perception* with Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2401.13408)]
+[A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
+Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
+*Preprint*
 
-*The Initial Screening Order Problem* with Antonio Mastropietro and Salvatore Ruggieri. [[arXiv](https://arxiv.org/abs/2307.15398v2)]
+[Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator](https://arxiv.org/abs/2405.13693)\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Preprint*
 
-*Wighted partial dependence plots* with Andrea Pugnana and Salvatore Ruggieri.
+[Causal Perception](https://arxiv.org/abs/2401.13408)\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Preprint*
 
-*Revisiting the Discrimination Comparator* with Salvatore Ruggieri.
+[The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
+**Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
+*Preprint*
 
 ### Other
 
