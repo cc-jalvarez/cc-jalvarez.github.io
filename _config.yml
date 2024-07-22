@@ -72,9 +72,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose M. Alvarez"
+  name             : #"Jose M. Alvarez"
   avatar           : "AlvarezJose.png"
-  bio              : "Data Science Researcher"
+  bio              : #"Data Science Researcher"
   location         :
   employer         :
   pubmed           :
