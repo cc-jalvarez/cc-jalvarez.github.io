@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- ![Alt text](/files/YulimarLVB.png "a title") -->
 
-I was born and raised in Caracas, Venezuela. When I am not learning from machines, I like to discover new books and music from backhome and, overall, Latinoamérica. Here, I include some of them.
+I was born and raised in Caracas, Venezuela. When I am not learning from machines, I like to discover new books and music from Latinoamérica. Here, I include some of them.
 
 ### Books
 
