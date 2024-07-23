@@ -6,6 +6,4 @@ author_profile: false
 redirect_from:
 ---
 
-# Why cc?
-
-Here.
+I was born and raised in Caracas, Venezuela.
