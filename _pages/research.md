@@ -47,7 +47,7 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 
 [The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
-*Under submission*
+*Preprint*
 
 # Editor
 
