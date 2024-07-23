@@ -8,7 +8,7 @@ redirect_from:
 
 - **23.07** I received the Best Reviewer Award at ICML 2024. 
 
-- **11.07** I succesfully defended my Ph.D. thesis in causal algorithmic fairness. Many thanks to my examiners [Joshue Loftus](https://joshualoftus.com/) (LSE), [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) (TU Eindhoven), and [Eirini Ntoutsi](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi) (Bundeswehr University Munich).
+- **11.07** I succesfully defended my Ph.D. thesis in causal algorithmic fairness. Many thanks to my examiners [Joshua Loftus](https://joshualoftus.com/) (LSE), [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) (TU Eindhoven), and [Eirini Ntoutsi](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi) (Bundeswehr University Munich).
 
 - **01.07** I presented our paper [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w) at the 3rd European Workshop on Algorithmic Fairness ([EWAF'24](https://2024.ewaf.org/home)) in Mainz, Germany.
 
