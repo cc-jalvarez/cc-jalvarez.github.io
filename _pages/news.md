@@ -16,6 +16,8 @@ redirect_from:
 
 - **29.04** Our paper [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w) has been published by [Ethics and Information Technology](https://link.springer.com/journal/10676) journal.
 
-# Older
+<!-- 
+### 2023 and older
 
 - **01.11** I received a Research Scholarship (Borsa di Ricerca) by the Department of Computer Science of the University of Pisa to continue my Ph.D. research on causal algorithmic fairness.
+-->
