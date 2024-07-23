@@ -7,12 +7,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Misc"
-    url: /misc/
-
   - title: "News"
     url: /news/
 
+  - title: "Misc"
+    url: /misc/
 
 # - title: "CV"
 #   url: /cv/
