@@ -12,9 +12,15 @@ redirect_from:
 
 <!-- ![Alt text](/files/YulimarLVB.png "a title") -->
 
-I was born and raised in Caracas, Venezuela. When I am not learning from machines, I like to discover new books and music from Latinoamérica. Here, I include some of them.
+I was born and raised in Caracas, Venezuela. When I am not learning from machines, I like to discover new books and music from Latinoamérica, in particular, from back home. Here, I include some of them.
 
 ### Books
+
+The region has a lot to offer beyond the Boom.
+
+<!--
+[Delirio Americano](https://www.penguinlibros.com/es/libros-de-historia/271774-libro-delirio-americano-9788430623914) by [Carlos Granés](https://elpais.com/america-colombia/branded/los-lideres-de-colombia/2023-12-06/carlos-granes-el-ensayista-del-delirio-americano.html)
+-->
 
 ### Music
 
