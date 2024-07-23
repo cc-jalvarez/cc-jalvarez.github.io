@@ -10,8 +10,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Misc"
-    url: /misc/
+  - title: "CCS"
+    url: /caracas/
 
 # - title: "CV"
 #   url: /cv/
