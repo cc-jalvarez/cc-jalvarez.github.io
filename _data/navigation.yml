@@ -10,6 +10,10 @@ main:
   - title: "Misc"
     url: /misc/
 
+  - title: "News"
+    url: /news/
+
+
 # - title: "CV"
 #   url: /cv/
 
