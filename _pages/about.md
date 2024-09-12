@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a data science researcher interested in tools for algorithmic decision-making and their societal implications. Broadly, my work focuses on the intersection of fairness, causal reasoning, and machine learning. See my [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ), [dblp](https://dblp.org/pid/59/6703-2.html), and [arXiv](https://arxiv.org/search/cs?query=0000-0001-9412-9013&searchtype=orcid&abstracts=show&order=-announced_date_first&size=100) for details.
+I am a data science researcher interested in tools for algorithmic decision-making and their societal implications. Broadly, my work focuses on the intersection of fairness, causal reasoning, and machine learning. See my [Google Scholar](https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AC6lMd8Ud2MbFYnNEDotPb1NjTu3AOp8-9uVIrS4I0gFhOAszCLioVnuMZG8pS7SjvWeBoj1wTzQXoTL8_2vRSuQ&user=SD_BQEoAAAAJ), [dblp](https://dblp.org/pid/59/6703-2.html), and [arXiv](https://arxiv.org/search/cs?query=0000-0001-9412-9013&searchtype=orcid&abstracts=show&order=-announced_date_first&size=100) for details.
 
 I will start as a postdoc in machine learning at KU Leuven this November.
 
