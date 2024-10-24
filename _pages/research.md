@@ -41,9 +41,9 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under submission*
 
-[Uncovering Algorithmic Discrimination: An Opportunity to Revisit the Comparator](https://arxiv.org/abs/2405.13693)\
+[Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Preprint*
+*Under submission*
 
 [Causal Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
