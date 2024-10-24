@@ -7,6 +7,10 @@ author_profile: false
 
 # Publications
 
+[The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
+**Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
+*Forthcoming WSDM 2025*
+
 [Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
 **Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
 *Ethics and Information Technology 2024*
@@ -44,10 +48,6 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 [Causal Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Preprint*
-
-[The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
-**Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
-*Under submission*
 
 # Editor
 
