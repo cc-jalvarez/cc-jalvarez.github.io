@@ -10,9 +10,9 @@ redirect_from:
 
 **07.23** I received the Best Reviewer Award at ICML 2024. 
 
-**07.11** I succesfully defended my Ph.D. thesis. Many thanks to my examiners [Joshua Loftus](https://joshualoftus.com/) (LSE), [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) (TU Eindhoven), and [Eirini Ntoutsi](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi) (Bundeswehr University Munich).
+**07.11** I defended succesfully my Ph.D. thesis. Many thanks to my examiners [Joshua Loftus](https://joshualoftus.com/) (LSE), [Mykola Pechenizkiy](https://www.tue.nl/en/research/researchers/mykola-pechenizkiy) (TU Eindhoven), and [Eirini Ntoutsi](https://www.unibw.de/home-en/appointment-of-professors/prof-eirini-ntoutsi) (Bundeswehr University Munich).
 
-**07.01** I presented our paper, [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w), at the 3rd European Workshop on Algorithmic Fairness ([EWAF 2024](https://2024.ewaf.org/home)) in Mainz, Germany.
+**07.01** I presented our paper, [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w), at ([EWAF 2024](https://2024.ewaf.org/home)) in Mainz, Germany.
 
 **04.29** Our paper, [Policy advice and best practices on bias and fairness in AI](https://link.springer.com/article/10.1007/s10676-024-09746-w), has been published in *[Ethics and Information Technology](https://link.springer.com/journal/10676)*.
 
