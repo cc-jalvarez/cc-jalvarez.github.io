@@ -14,7 +14,7 @@ I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.ku
 
 I completed my PhD in Data Science from the Scuola Normale Superiore, where I was advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an Early-Stage Researcher with [NoBIAS ITN](https://nobias-project.eu/), I was a recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) and a member of the [KDD Lab](https://kdd.isti.cnr.it/). 
 Previously, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics; and Economics and History (BA), double major, at the University of Florida. 
-I also worked at Deloitte Belgium as a Senior Risk Modeler.
+I also worked at Deloitte as a Senior Risk Modeler.
 
 For more about me, here is my [CV](/files/AlvarezJoseCV.pdf).
 
