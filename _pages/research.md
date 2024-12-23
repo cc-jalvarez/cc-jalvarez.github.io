@@ -45,6 +45,10 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under submission*
 
+Counterfactual Situation Testing: From Single to Multidimensional Discrimination\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Under submission*
+
 [Causal Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Preprint*
