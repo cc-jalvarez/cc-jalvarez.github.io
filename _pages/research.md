@@ -13,15 +13,18 @@ author_profile: false
 
 [Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
 **Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
-*Ethics and Information Technology 2024*
+*Ethics and Information Technology 2024*\
+&nbsp; Presented at [EWAF'24](https://2024.ewaf.org/)
 
 [Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*ACM EAAMO 2023*
+*ACM EAAMO 2023*\
+&nbsp; Presented at [EWAF'22](https://sites.google.com/view/ewaf22/), [NeurIPS'22 AFLCP Workshop](https://www.afciworkshop.org/afcp2022/home), [ECML'23 BIAS Workshop](https://sites.google.com/view/bias2023/)
 
 [Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657)\
 Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
-*ACM AIES 2023*
+*ACM AIES 2023*\
+&nbsp; Presented at [ECML'23 BIAS Workshop](https://sites.google.com/view/bias2023/)
 
 [Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008)\
 **Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri\
@@ -51,7 +54,8 @@ Counterfactual Situation Testing: From Single to Multidimensional Discrimination
 
 [Causal Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Preprint*
+*Preprint*\
+&nbsp; Presented at [NeurIPS'22 AFLCP Workshop](https://www.afciworkshop.org/afcp2022/home)
 
 # Editor
 
