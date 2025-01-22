@@ -27,7 +27,7 @@ Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 
 [Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657)\
 Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
-*ACM AIES 2023*\
+*ACM AIES 2023*
 
 [Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008)\
 **Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri\
