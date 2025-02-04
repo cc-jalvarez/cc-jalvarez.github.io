@@ -47,7 +47,7 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under submission*
 
-Counterfactual Situation Testing: From Single to Multidimensional Discrimination\
+[Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://arxiv.org/abs/2502.01267)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under submission*
 
@@ -55,6 +55,10 @@ Counterfactual Situation Testing: From Single to Multidimensional Discrimination
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under preparation*\
 &nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
+
+[Privilege Scores](https://arxiv.org/abs/2502.01211)\
+Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
+*Under submission*
 
 # Editor
 
