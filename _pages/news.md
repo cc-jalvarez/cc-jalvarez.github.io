@@ -6,11 +6,11 @@ author_profile: false
 redirect_from:
 ---
 
-**13.02.** Our paper, [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://arxiv.org/abs/2502.01267), has been accepted to the *[Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/SpecialTrack-FBAI)*.
+**13.02.25** Our paper, [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://arxiv.org/abs/2502.01267), has been accepted to the *[Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/SpecialTrack-FBAI)*.
 
-**23.03.** Our paper, [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902), has been accepted for *[AISTAT 2025](https://aistats.org/aistats2025//)*
+**23.03.25** Our paper, [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902), has been accepted for *[AISTAT 2025](https://aistats.org/aistats2025//)*
 
-**24.10.** Our paper, [The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398), has been accepted for *[WSDM 2025](https://www.wsdm-conference.org/2025/)*.
+**24.10.24** Our paper, [The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398), has been accepted for *[WSDM 2025](https://www.wsdm-conference.org/2025/)*.
 
 <!-- 
 
