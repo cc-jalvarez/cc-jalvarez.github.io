@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher interested in data science tools for algorithmic decision-making and their societal implications.
+I am a social data scientist researching tools for algorithmic decision-making and their societal implications.
 Broadly, my work focuses on the intersection of fairness, causal reasoning, and machine learning.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) and [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
-I completed my PhD in Data Science from the Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/). As an ESR with [NoBIAS ITN](https://nobias-project.eu/), I was the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/) at the University of Pisa. 
+I completed my PhD in Data Science from the Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
+As a [NoBIAS](https://nobias-project.eu/) ESR at the University of Pisa, I was the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/). 
 Previously, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics and History (BA) at the University of Florida. 
 I also worked at Deloitte as a Senior Risk Modeler.
 
