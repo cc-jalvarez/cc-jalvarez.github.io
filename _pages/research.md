@@ -15,9 +15,9 @@ author_profile: false
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AISTAT 2025*
 
-[The Initial Screening Order Problem](https://arxiv.org/abs/2307.15398)\
+[The Initial Screening Order Problem](https://dl.acm.org/doi/10.1145/3701551.3703497)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
-*Forthcoming in WSDM 2025*
+*WSDM 2025*
 
 [Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
 **Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
