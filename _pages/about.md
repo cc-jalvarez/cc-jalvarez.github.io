@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a social data scientist researching tools for algorithmic decision-making and their societal implications.
+I am a data scientist researching tools for algorithmic decision-making and their societal implications.
 Broadly, my work focuses on the intersection of fairness, causal reasoning, and machine learning.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) and [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris/liris) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
