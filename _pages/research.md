@@ -60,6 +60,11 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
 *Under submission*
 
+# PhD Thesis
+
+[Causality for Fair Machine Learning: Selected Topics and Applications](https://tesidottorato.depositolegale.it/handle/20.500.14242/190088)\
+**Jose M. Alvarez**
+
 # Editor
 
 [Proceedings of the 2nd European Workshop on Algorithmic Fairness](https://ceur-ws.org/Vol-3442/), Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. *CEUR Workshop Proceedings 3442, CEUR-WS.org 2023*.
