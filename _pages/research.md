@@ -7,13 +7,13 @@ author_profile: false
 
 # Publications
 
-[Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://arxiv.org/abs/2502.01267)\
-**Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in JAIR*
-
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AISTAT 2025*
+
+[Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Journal of Artificial Intelligence Research 2025*
 
 [The Initial Screening Order Problem](https://dl.acm.org/doi/10.1145/3701551.3703497)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
