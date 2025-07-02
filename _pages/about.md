@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I research machine learning tools for algorithmic decision-making and their societal implications.
-I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) (Department of Computer Science) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
+I am a machine learning researcher, studying tools for algorithmic decision-making and their societal implications.
+Broadly, my research is at the intersection of causal resoning, statistical inference, and trustworthy AI.
+I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
 I completed my PhD in Data Science from the Scuola Normale Superiore.
-I was advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/) and, as a [NoBIAS ITN](https://nobias-project.eu/) ESR at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/) (Department of Computer Science), I was also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/). 
+I was advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/) and, as a [NoBIAS ITN](https://nobias-project.eu/) ESR at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/), I was also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/). 
 Previously, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/). 
 I also worked at Deloitte as a Senior Risk Modeler, specializing in financial and operational risk.
 
