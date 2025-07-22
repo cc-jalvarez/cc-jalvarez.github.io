@@ -9,7 +9,7 @@ author_profile: false
 
 Toward A Causal Framework for Modeling Perception\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in AIES 2025*
+*Forthcoming in AIES 2025*\
 &nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
