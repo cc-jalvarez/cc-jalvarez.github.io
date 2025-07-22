@@ -7,6 +7,11 @@ author_profile: false
 
 # Publications
 
+Toward A Causal Framework for Modeling Perception\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Forthcoming in AIES 2025*
+&nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
+
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AISTAT 2025*
@@ -50,11 +55,6 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 [Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Under submission*
-
-[Causal Perception](https://arxiv.org/abs/2401.13408)\
-**Jose M. Alvarez**, Salvatore Ruggieri\
-*Under preparation*\
-&nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
 
 [Privilege Scores](https://arxiv.org/abs/2502.01211)\
 Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
