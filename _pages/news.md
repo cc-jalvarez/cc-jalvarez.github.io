@@ -6,7 +6,7 @@ author_profile: false
 redirect_from:
 ---
 
-**18.07.25** Our paper, Toward A Causal Framework for Modeling Perception, has been accepted for *[AIES 2025](https://www.aies-conference.com/2025/)*.
+**18.07.25** Our paper, [Toward A Causal Framework for Modeling Perception](https://arxiv.org/pdf/2401.13408v3), has been accepted for *[AIES 2025](https://www.aies-conference.com/2025/)*.
 
 **13.02.25** Our paper, [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://arxiv.org/abs/2502.01267), has been accepted to the *[Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair/SpecialTrack-FBAI)*.
 
