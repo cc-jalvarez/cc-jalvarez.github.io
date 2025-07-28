@@ -7,10 +7,9 @@ author_profile: false
 
 # Publications
 
-[Toward A Causal Framework for Modeling Perception](https://arxiv.org/pdf/2401.13408v3)\
+[Toward A Causal Framework for Modeling Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in AIES 2025*\
-&nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
+*Forthcoming in AIES 2025*
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
