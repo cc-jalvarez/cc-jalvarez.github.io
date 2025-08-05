@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 I am a machine learning researcher, studying algorithmic tools for decision-making and their societal implications.
-Broadly, my research is at the intersection of causal resoning, statistical inference, and trustworthy AI.
+Broadly, my research is at the intersection of causal resoning, data science, and trustworthy AI.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
-I completed my PhD in Data Science from the Scuola Normale Superiore.
-I was advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/) and, as a [NoBIAS ITN](https://nobias-project.eu/) ESR at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/), I was also the recipient of a [Marie Skłodowska-Curie Action](https://marie-sklodowska-curie-actions.ec.europa.eu/). 
-Previously, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/). 
-I also worked at Deloitte as a Senior Risk Modeler, specializing in financial and operational risk.
+I completed my PhD in Data Science from the Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
+During my PhD, I was a research fellow at the University of Pisa's [KDD Lab](https://kdd.isti.cnr.it/) and a [Marie Skłodowska-Curie Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/) with [NoBIAS ITN](https://nobias-project.eu/).
+Before my PhD, I worked at Deloitte Belgium as a quantitative risk modeler.
+Previously, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/).
+I am originally from Caracas, Venezuela.
 
 For more about me, see my [CV](/files/AlvarezJoseCV.pdf).
 
