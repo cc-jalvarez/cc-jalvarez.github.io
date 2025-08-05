@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning researcher, studying tools for algorithmic decision-making and their societal implications.
+I am a machine learning researcher, studying algorithmic tools for decision-making and their societal implications.
 Broadly, my research is at the intersection of causal resoning, statistical inference, and trustworthy AI.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
