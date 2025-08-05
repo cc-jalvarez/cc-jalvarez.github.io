@@ -5,14 +5,17 @@ permalink: /research/
 author_profile: false
 ---
 
+\* shared first author
+
 # Publications
 
 [Toward A Causal Framework for Modeling Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in AIES 2025*
+*Forthcoming in AIES 2025*\
+&nbsp; Presented at [NeurIPS'22 AFCP Workshop](https://www.afciworkshop.org/afcp2022/home)
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
-Filippo Palomba, Andrea Pugnana, **Jose M. Alvarez**, Salvatore Ruggieri\
+Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AISTAT 2025*
 
 [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
@@ -38,7 +41,7 @@ Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
 *ACM AIES 2023*
 
 [Domain Adaptive Decision Trees: Implications for Accuracy and Fairness](https://dl.acm.org/doi/10.1145/3593013.3594008)\
-**Jose M. Alvarez**, Kristen M. Scott, Bettina Berendt, Salvatore Ruggieri\
+**Jose M. Alvarez**\*, Kristen M. Scott\*, Bettina Berendt, Salvatore Ruggieri\
 *ACM FAccT 2023*
 
 [Can We Trust Fair-AI?](https://ojs.aaai.org/index.php/AAAI/article/view/26798)\
