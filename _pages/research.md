@@ -27,7 +27,7 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 [Toward A Causal Framework for Modeling Perception](https://arxiv.org/abs/2401.13408)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AAAI/ACM AIES 2025*\
-&nbsp; Presented at [AFCP Workshop @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home)
+&nbsp; Presented at [AFCP @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home)
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
 Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -40,7 +40,7 @@ Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
 [Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *ACM EAAMO 2023*\
-&nbsp; Presented at [EWAF'22](https://sites.google.com/view/ewaf22/), [AFCP Workshop @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home), [BIAS Workshop @ ECML'23](https://sites.google.com/view/bias2023/)
+&nbsp; Presented at [EWAF'22](https://sites.google.com/view/ewaf22/), [AFCP @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home), [BIAS @ ECML'23](https://sites.google.com/view/bias2023/)
 
 [Fairness implications of encoding protected categorical attributes](https://dl.acm.org/doi/10.1145/3600211.3604657)\
 Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
@@ -81,7 +81,7 @@ Weighted Partial Dependence Plot with Salvatore Ruggieri and Andrea Pugnana.
 
 ## Media 
 
-[Fairness in Artificial Intelligence with Jose Alvarez](https://www.radiocavolo.org/broadcast/vinternational-ep-3-fairness-in-artificial-intelligence-with-jose-alvarez/). *VINTERNATIONAL EP 3*. Radio Cavolo.
+[Fairness in Artificial Intelligence with Jose Alvarez](https://www.radiocavolo.org/broadcast/vinternational-ep-3-fairness-in-artificial-intelligence-with-jose-alvarez/). *VINTERNATIONAL EP 3*. Radio Cavolo, March 2024.
 
 [Gauche caviar](https://thetseconomist.wordpress.com/2017/09/06/gauche-caviar/). *The TSEconomist*. Num. 16, September 2017.
 
