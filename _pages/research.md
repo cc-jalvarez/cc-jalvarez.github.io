@@ -54,6 +54,10 @@ Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
 Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini\
 *AAAI 2023*
 
+## Editor
+
+[Proceedings of the 2nd European Workshop on Algorithmic Fairness](https://ceur-ws.org/Vol-3442/), Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. *CEUR Workshop Proceedings 3442, CEUR-WS.org 2023*.
+
 ## Preprints
 
 [Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
@@ -74,10 +78,6 @@ Weighted Partial Dependence Plot with Salvatore Ruggieri and Andrea Pugnana.
 
 [Causality for Fair Machine Learning: Selected Topics and Applications](https://tesidottorato.depositolegale.it/handle/20.500.14242/190088)\
 **Jose M. Alvarez**
-
-## Editor
-
-[Proceedings of the 2nd European Workshop on Algorithmic Fairness](https://ceur-ws.org/Vol-3442/), Winterthur, Switzerland, June 7th to 9th, 2023. Edited by: **Jose M. Alvarez**, Alessandro Fabris, Christoph Heitz, Corinna Hertweck, Michele Loi, Meike Zehlike. *CEUR Workshop Proceedings 3442, CEUR-WS.org 2023*.
 
 ## Media 
 
