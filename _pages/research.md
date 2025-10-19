@@ -24,9 +24,9 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 
 ## Publications: conference proceedings
 
-[Toward A Causal Framework for Modeling Perception](https://arxiv.org/abs/2401.13408)\
+[Toward A Causal Framework for Modeling Perception](https://ojs.aaai.org/index.php/AIES/article/view/36539)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in AAAI/ACM AIES 2025*\
+*AAAI/ACM AIES 2025*\
 &nbsp; Presented at [AFCP @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home)
 
 [A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
