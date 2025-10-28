@@ -31,7 +31,7 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 
 [A Causal Framework for Evaluating Deferring Systems](https://proceedings.mlr.press/v258/palomba25a.html)\
 Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in AISTAT 2025*
+*AISTAT 2025*
 
 [The Initial Screening Order Problem](https://dl.acm.org/doi/10.1145/3701551.3703497)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
