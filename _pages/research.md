@@ -29,7 +29,7 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 *AAAI/ACM AIES 2025*\
 &nbsp; Presented at [AFCP @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home)
 
-[A Causal Framework for Evaluating Deferring Systems](https://arxiv.org/abs/2405.18902)\
+[A Causal Framework for Evaluating Deferring Systems](https://proceedings.mlr.press/v258/palomba25a.html)\
 Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
 *Forthcoming in AISTAT 2025*
 
