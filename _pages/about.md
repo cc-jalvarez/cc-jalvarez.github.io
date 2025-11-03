@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a machine learning researcher, studying algorithmic tools for decision-making and their societal implications.
-Broadly, my research is at the intersection of causal resoning, data science, and trustworthy AI.
+Broadly, my research is at the intersection of causal reasoning, data science, and trustworthy AI.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
 I completed my PhD in Data Science from the Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
