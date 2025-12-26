@@ -12,8 +12,8 @@ I am a machine learning scientist studying algorithmic tools for decision-making
 My research is at the intersection of causality, trustworthy AI, and applied data science.
 I am currently a Postdoctoral Researcher at KU Leuven's [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 
-Previously, I obtained my PhD in Data Science at the Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
-During my PhD, I was a Research Fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a [Marie Skłodowska-Curie Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/) with [NoBIAS ITN](https://nobias-project.eu/).
+Previously, I obtained my PhD in Data Science at the Scuola Normale Superiore advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
+During my PhD I was a Research Fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a [Marie Skłodowska-Curie Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/) with [NoBIAS ITN](https://nobias-project.eu/).
 Before that, I worked at Deloitte as a quantitative risk modeler.
 Before that, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics (BA) and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/).
 I am from Caracas, Venezuela.
