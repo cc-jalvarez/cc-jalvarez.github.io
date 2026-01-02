@@ -68,12 +68,6 @@ Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Tu
 Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
 *In preparation*
 
-## Work in progress
-
-Take-Off Periods: A Novel Count Time Series Feature with Jesse Davis and Wouter Verbeke.
-
-Weighted Partial Dependence Plot with Salvatore Ruggieri and Andrea Pugnana.
-
 ## PhD Thesis
 
 [Causality for Fair Machine Learning: Selected Topics and Applications](https://tesidottorato.depositolegale.it/handle/20.500.14242/190088)\
