@@ -79,7 +79,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : #"https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4flRnyZl09a2Q8S4L8ySoeG4CMpCfYBDwXEUNYEHYVENmZOn2P_-xzO8QxNhaCetZlL4nNTOvPu5NCqS0LpIMuUuUtPPpDL2_yeO8J-z23TTxdWns&user=otFhtYMAAAAJ"
-  email            : #"jose.alvarez@sns.it"
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "alvarezjosemanuel"
-  orcid            : #"https://orcid.org/0000-0001-9412-9013"
+  orcid            : "https://orcid.org/0000-0001-9412-9013"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "cc_jalvarez"
+  twitter          :
   vine             :
   weibo            :
   xing             :
