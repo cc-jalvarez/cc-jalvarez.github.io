@@ -15,7 +15,7 @@ My work studies algorithmic tools for decision-making and their societal implica
 Previously, I was a Postdoctoral Researcher at KU Leuven's [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai) working with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694).
 Before that, I obtained my PhD in Data Science at the Scuola Normale Superiore advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
 During my PhD I was a Research Fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a [Marie Skłodowska-Curie Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/) with [NoBIAS ITN](https://nobias-project.eu/).
-Before that, I worked at Deloitte Belgium as a quantitative risk modeler.
+Before that, I worked at Deloitte as a risk modeler.
 Before that, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics (BA) and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/).
 I am from Caracas, Venezuela.
 For more information, here is my [CV](/files/AlvarezJoseCV.pdf).
