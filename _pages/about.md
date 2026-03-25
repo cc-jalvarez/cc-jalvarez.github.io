@@ -17,11 +17,11 @@ For papers and preprints, see my [Google Scholar](https://scholar.google.com/cit
 Previously, I did an industry post-doc with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694) at the [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai) in KU Leuven.
 I did my PhD at Scuola Normale Superiore under the supervision of [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
 During my PhD I was a research fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a Marie Skłodowska-Curie fellow with [NoBIAS ITN](https://nobias-project.eu/).
+Before academia, I worked at Deloitte as a senior risk modeler.
 For more about me, see my [CV](/files/AlvarezJoseCV.pdf).
 
 <!---
 
-Before that, I worked at Deloitte as a risk modeler.
 Before that, I studied Econometrics and Empirical Economics (MSc) at the Toulouse School of Economics, and Economics (BA) and History (BA) at the University of Florida where I attended as a [Davis UWC Scholar](https://www.davisuwcscholars.org/).
 I am from Caracas, Venezuela.
 For more information, here is my [CV](/files/AlvarezJoseCV.pdf).
