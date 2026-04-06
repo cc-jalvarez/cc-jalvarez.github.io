@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research scientist at Santander AI Lab.
+I am a research scientist at Santander AI Lab.
 
 My work studies algorithmic tools for decision-making and their societal implications. 
 I am currently interested in responsible AI within the context of digital banking.
@@ -17,7 +17,7 @@ For papers and preprints, see my [Google Scholar](https://scholar.google.com/cit
 Previously, I did an industry post-doc with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694) at the [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai) in KU Leuven.
 I did my PhD at Scuola Normale Superiore under the supervision of [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
 During my PhD I was a research fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a Marie Skłodowska-Curie fellow with [NoBIAS ITN](https://nobias-project.eu/).
-Before academia, I worked at Deloitte as a senior risk modeler.
+Before academia I worked at Deloitte as a senior risk modeler.
 For more about me, see my [CV](/files/AlvarezJoseCV.pdf).
 
 <!---
