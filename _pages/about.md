@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research scientist at Santander AI Lab.
+I am a senior research scientist at the Santander AI Lab in Madrid, Spain.
 
-My work studies machine learning systems for decision-making and their societal implications. 
+My work studies machine learning systems for algorithmic decision-making with a focus on social, regulatory, and legal questions. 
 I am currently interested in responsible AI within the context of digital banking.
 For papers and preprints, see my [Google Scholar](https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AC6lMd8Ud2MbFYnNEDotPb1NjTu3AOp8-9uVIrS4I0gFhOAszCLioVnuMZG8pS7SjvWeBoj1wTzQXoTL8_2vRSuQ&user=SD_BQEoAAAAJ).
 
-Previously, I did an industry post-doc with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694) at the [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai), KU Leuven.
-I did my PhD at Scuola Normale Superiore under the supervision of [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/).
-During my PhD I was a research fellow at the [KDD Lab](https://kdd.isti.cnr.it/), University of Pisa, and a Marie Skłodowska-Curie fellow with [NoBIAS ITN](https://nobias-project.eu/).
-Before academia I worked as a senior risk modeler at Deloitte.
+Previously, I did an industry post-doc with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694) at the [DTAI Research Unit](https://wms.cs.kuleuven.be/dtai).
+I obtained my PhD from Scuola Normale Superiore, advised by [Salvatore Ruggieri](http://pages.di.unipi.it/ruggieri/), during which I was also a research fellow at the [KDD Lab](https://kdd.isti.cnr.it/) and a Marie Skłodowska-Curie fellow with [NoBIAS ITN](https://nobias-project.eu/).
+Before academia I worked as a risk modeler at Deloitte.
 For more about me, see my [CV](/files/AlvarezJoseCV.pdf).
 
 <!---
