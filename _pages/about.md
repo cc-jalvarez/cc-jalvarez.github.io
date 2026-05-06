@@ -11,7 +11,7 @@ redirect_from:
 I am a senior research scientist at the Santander AI Lab.
 
 My work studies machine learning systems for algorithmic decision-making with a focus on social, regulatory, and legal questions. 
-I am currently interested in responsible AI within the context of digital banking.
+I am currently interested in responsible AI within digital banking.
 For papers and preprints, see my [Google Scholar](https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AC6lMd8Ud2MbFYnNEDotPb1NjTu3AOp8-9uVIrS4I0gFhOAszCLioVnuMZG8pS7SjvWeBoj1wTzQXoTL8_2vRSuQ&user=SD_BQEoAAAAJ).
 
 Previously, I did a post-doc with [Jesse Davis](https://people.cs.kuleuven.be/~jesse.davis/) and [Wouter Verbeke](https://ai.kuleuven.be/members/00054694) at the [DTAI](https://wms.cs.kuleuven.be/dtai).
