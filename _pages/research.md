@@ -9,6 +9,10 @@ author_profile: false
 
 ## Publications: journal articles
 
+[Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Forthcoming in Computational Intelligence 2026*
+
 [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Journal of Artificial Intelligence Research 2025*
@@ -23,6 +27,10 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 *International Journal of Data Science and Analytics 2022*
 
 ## Publications: conference proceedings
+
+[Privilege Scores](https://arxiv.org/abs/2502.01211)\
+Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
+*Forthcoming in ACM FAccT 2026*
 
 [Toward A Causal Framework for Modeling Perception](https://ojs.aaai.org/index.php/AIES/article/view/36539)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -60,13 +68,7 @@ Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Tu
 
 ## Preprints
 
-[Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
-**Jose M. Alvarez**, Salvatore Ruggieri\
-*Under submission*
-
-[Privilege Scores](https://arxiv.org/abs/2502.01211)\
-Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
-*In preparation*
+TBD
 
 ## PhD Thesis
 
