@@ -28,9 +28,9 @@ Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
 
 ## Publications: conference proceedings
 
-[Privilege Scores](https://arxiv.org/abs/2502.01211)\
+[Privilege Scores](https://dl.acm.org/doi/10.1145/3805689.3812340)\
 Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
-*Forthcoming in ACM FAccT 2026*
+*ACM FAccT 2026*
 
 [Toward A Causal Framework for Modeling Perception](https://ojs.aaai.org/index.php/AIES/article/view/36539)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
