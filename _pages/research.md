@@ -9,9 +9,9 @@ author_profile: false
 
 ## Publications: journal articles
 
-[Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://arxiv.org/abs/2405.13693)\
+[Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://onlinelibrary.wiley.com/doi/10.1111/coin.70238)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
-*Forthcoming in Computational Intelligence 2026*
+*Computational Intelligence 2026*
 
 [Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
