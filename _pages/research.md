@@ -7,26 +7,15 @@ author_profile: false
 
 \* shared first author
 
-## Publications: journal articles
+## Publications
+
+[Implementing Causal Perception: Competing SCMs and Situated Fairness](https://arxiv.org/abs/2608.03917)\
+**Jose M. Alvarez**\
+*Forthcoming in BIAS 2026 @ ECML-PKDD*
 
 [Mutatis Mutandis: Revisiting the Comparator in Discrimination Testing](https://onlinelibrary.wiley.com/doi/10.1111/coin.70238)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
 *Computational Intelligence 2026*
-
-[Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
-**Jose M. Alvarez**, Salvatore Ruggieri\
-*Journal of Artificial Intelligence Research 2025*
-
-[Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
-**Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
-*Ethics and Information Technology 2024*\
-&nbsp; Presented at [EWAF'24](https://2024.ewaf.org/)
-
-[Predicting and explaining employee turnover intention](https://link.springer.com/article/10.1007/s41060-022-00329-w)\
-Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
-*International Journal of Data Science and Analytics 2022*
-
-## Publications: conference proceedings
 
 [Privilege Scores](https://dl.acm.org/doi/10.1145/3805689.3812340)\
 Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, Bernd Bischl, Susanne Dandl\
@@ -37,6 +26,10 @@ Ludwig Bothmann, Philip A. Boustani, **Jose M. Alvarez**, Giuseppe Casalicchio, 
 *AAAI/ACM AIES 2025*\
 &nbsp; Presented at [AFCP @ NeurIPS'22](https://www.afciworkshop.org/afcp2022/home)
 
+[Counterfactual Situation Testing: From Single to Multidimensional Discrimination](https://jair.org/index.php/jair/article/view/17935)\
+**Jose M. Alvarez**, Salvatore Ruggieri\
+*Journal of Artificial Intelligence Research 2025*
+
 [A Causal Framework for Evaluating Deferring Systems](https://proceedings.mlr.press/v258/palomba25a.html)\
 Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
 *AISTATS 2025*
@@ -44,6 +37,11 @@ Filippo Palomba\*, Andrea Pugnana\*, **Jose M. Alvarez**, Salvatore Ruggieri\
 [The Initial Screening Order Problem](https://dl.acm.org/doi/10.1145/3701551.3703497)\
 **Jose M. Alvarez**, Antonio Mastropietro, Salvatore Ruggieri\
 *WSDM 2025*
+
+[Policy advice and best practices on bias and fairness in AI](https://doi.org/10.1007/s10676-024-09746-w)\
+**Jose M. Alvarez**, Alejandra Bringas, Alaa Elobaid, Simone Fabrizzi, Miriam Fahimi, Antonio Ferrara, Siamak Ghodsi, Carlos Mougan, Ioanna Papageorgiou, Paula Reyero, Mayra Russo, Kristen M. Scott, Laura State, Xuan Zhao, Salvatore Ruggieri\
+*Ethics and Information Technology 2024*\
+&nbsp; Presented at [EWAF'24](https://2024.ewaf.org/)
 
 [Counterfactual Situation Testing: Uncovering Discrimination under Fairness given the Difference](https://dl.acm.org/doi/10.1145/3617694.3623222)\
 **Jose M. Alvarez**, Salvatore Ruggieri\
@@ -59,8 +57,12 @@ Carlos Mougan, **Jose M. Alvarez**, Salvatore Ruggieri, and Steffen Staab\
 *ACM FAccT 2023*
 
 [Can We Trust Fair-AI?](https://ojs.aaai.org/index.php/AAAI/article/view/26798)\
-Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Turini\
+Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnana, Laura State, Franco Turini\
 *AAAI 2023*
+
+[Predicting and explaining employee turnover intention](https://link.springer.com/article/10.1007/s41060-022-00329-w)\
+Matilde Lazzari, **Jose M. Alvarez**, and Salvatore Ruggieri\
+*International Journal of Data Science and Analytics 2022*
 
 ## Editor
 
@@ -68,7 +70,7 @@ Salvatore Ruggieri, **Jose M. Alvarez**, Andrea Pugnanna, Laura State, Franco Tu
 
 ## Preprints
 
-TBD
+Investigating Perception in LLM-Based Causal Graph Elicitation. *Under submission*.
 
 ## PhD Thesis
 
