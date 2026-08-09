@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior research scientist at the Santander AI Lab.
+I am a senior researcher at the Santander AI Lab.
 
 My work studies machine learning systems for algorithmic decision-making with a focus on social, regulatory, and legal questions. 
 I am currently interested in responsible AI within digital banking.
