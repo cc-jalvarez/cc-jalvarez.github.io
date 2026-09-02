@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-\* shared first author
+Visit also my [Google Scholar](https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AC6lMd8Ud2MbFYnNEDotPb1NjTu3AOp8-9uVIrS4I0gFhOAszCLioVnuMZG8pS7SjvWeBoj1wTzQXoTL8_2vRSuQ&user=SD_BQEoAAAAJ); \* shared first author.
 
 ## Publications
 
